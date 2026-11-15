@@ -1,0 +1,31 @@
+=== ML Pipeline Reproducibility Summary ===
+Dataset path: /Users/dharunkamisetty/Desktop/01_Active/mini_proj/NDAP_REPORT_9259.csv
+ML dataset dimensions: 210 rows x 20 columns
+Year range (predictions): 2014 - 2019
+States: 35
+Features used: GER_lag1, GPI_lag1, PTR_all_lag1, PTR_university_colleges_lag1, PTR_university_units_lag1, colleges_lag1, enrollment_growth, enrollment_lag_1, enrollment_lag_2, foreign_students_lag1, rolling_mean, stand_alone_institutions_lag1, teachers_lag1, universities_lag1, university_enrolment_lag1
+Target variable: higher_education_enrollment
+Train years: 2014-2017
+Test years: 2018-2019
+Missing-value strategy: median imputation for numeric, most_frequent for state, fitted on training data only inside sklearn Pipeline
+Models: Linear Regression, SVR, Random Forest, XGBoost, LightGBM, WOASVR, GWOSVR, PSOSVR, ActualGRIDSVR, ARIMA, ETS, TBATS
+Hyperparameters (best from temporal CV):
+  SVR: {'kernel': 'rbf', 'gamma': 'scale', 'epsilon': 0.05, 'C': 10}
+  Random Forest: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 0.5, 'max_depth': 5}
+  XGBoost: {'subsample': 0.8, 'n_estimators': 300, 'max_depth': 3, 'learning_rate': 0.05, 'colsample_bytree': 1.0}
+  LightGBM: {'num_leaves': 63, 'n_estimators': 100, 'min_child_samples': 10, 'max_depth': 10, 'learning_rate': 0.1}
+Evaluation results (test set):
+            Model           MAE         RMSE        MAPE        R2
+Linear Regression  55947.134831 7.986902e+04  429.829964  0.996603
+              SVR 927410.359680 1.459550e+06 3565.596737 -0.134361
+    Random Forest  94582.752444 2.257823e+05  186.500694  0.972855
+          XGBoost  43467.133901 6.904167e+04   62.383841  0.997462
+         LightGBM 114162.943359 1.888579e+05   57.355059  0.981007
+           WOASVR 920433.434848 1.451195e+06 3555.238244 -0.121411
+           GWOSVR 927013.602324 1.459194e+06 3568.152600 -0.133808
+           PSOSVR 920438.045357 1.451199e+06 3555.193637 -0.121417
+    ActualGRIDSVR 921197.000490 1.451881e+06 3549.836711 -0.122471
+            ARIMA  44474.208695 7.423404e+04    6.759504  0.997066
+              ETS  50192.210862 9.075705e+04    7.326463  0.995614
+            TBATS  51702.641782 1.016677e+05    6.497322  0.994496
+Two-stage projection 2020-2024 (see outputs/enrollment_forecasts.csv, outputs/future_indicator_forecasts.csv, outputs/forecast_methodology.txt): 3 ratio scenarios; primary projection 2020-2022; aggregate base 2022 change vs 2019: 3.9% (Stage 1: per-State linear trends for 6 count indicators; Stage 2: XGBoost retrained on all 2014-2019 data, recursive forecast; GER/GPI/PTRs held at 2019 baseline as a scenario)

@@ -1,0 +1,526 @@
+State,StateCode,Year,Forecast_Enrollment,Scenario
+Andaman And Nicobar Islands,35,2020,12213.166015625,Base_2019_Ratio
+Andaman And Nicobar Islands,35,2021,13624.3720703125,Base_2019_Ratio
+Andaman And Nicobar Islands,35,2022,13936.5859375,Base_2019_Ratio
+Andaman And Nicobar Islands,35,2023,12031.5439453125,Base_2019_Ratio
+Andaman And Nicobar Islands,35,2024,13355.140625,Base_2019_Ratio
+Andhra Pradesh,28,2020,1880290.875,Base_2019_Ratio
+Andhra Pradesh,28,2021,1922992.0,Base_2019_Ratio
+Andhra Pradesh,28,2022,1937476.0,Base_2019_Ratio
+Andhra Pradesh,28,2023,2070770.625,Base_2019_Ratio
+Andhra Pradesh,28,2024,2077953.5,Base_2019_Ratio
+Arunachal Pradesh,12,2020,58229.23828125,Base_2019_Ratio
+Arunachal Pradesh,12,2021,58018.6640625,Base_2019_Ratio
+Arunachal Pradesh,12,2022,58454.15625,Base_2019_Ratio
+Arunachal Pradesh,12,2023,58454.15625,Base_2019_Ratio
+Arunachal Pradesh,12,2024,58454.15625,Base_2019_Ratio
+Assam,18,2020,660983.9375,Base_2019_Ratio
+Assam,18,2021,658975.1875,Base_2019_Ratio
+Assam,18,2022,656747.8125,Base_2019_Ratio
+Assam,18,2023,656747.8125,Base_2019_Ratio
+Assam,18,2024,657500.875,Base_2019_Ratio
+Bihar,10,2020,1789959.0,Base_2019_Ratio
+Bihar,10,2021,1829322.125,Base_2019_Ratio
+Bihar,10,2022,1929205.75,Base_2019_Ratio
+Bihar,10,2023,2007190.75,Base_2019_Ratio
+Bihar,10,2024,2047102.125,Base_2019_Ratio
+Chandigarh,4,2020,102449.4140625,Base_2019_Ratio
+Chandigarh,4,2021,99839.03125,Base_2019_Ratio
+Chandigarh,4,2022,100476.28125,Base_2019_Ratio
+Chandigarh,4,2023,99805.328125,Base_2019_Ratio
+Chandigarh,4,2024,99805.328125,Base_2019_Ratio
+Chhattisgarh,22,2020,626782.0625,Base_2019_Ratio
+Chhattisgarh,22,2021,628398.4375,Base_2019_Ratio
+Chhattisgarh,22,2022,626254.9375,Base_2019_Ratio
+Chhattisgarh,22,2023,621840.0625,Base_2019_Ratio
+Chhattisgarh,22,2024,621840.0625,Base_2019_Ratio
+Delhi,7,2020,991004.0625,Base_2019_Ratio
+Delhi,7,2021,994600.0,Base_2019_Ratio
+Delhi,7,2022,995839.375,Base_2019_Ratio
+Delhi,7,2023,995839.375,Base_2019_Ratio
+Delhi,7,2024,995839.375,Base_2019_Ratio
+Goa,30,2020,51448.6328125,Base_2019_Ratio
+Goa,30,2021,51448.6328125,Base_2019_Ratio
+Goa,30,2022,50777.6875,Base_2019_Ratio
+Goa,30,2023,50777.6875,Base_2019_Ratio
+Goa,30,2024,50777.6875,Base_2019_Ratio
+Gujarat,24,2020,1648835.875,Base_2019_Ratio
+Gujarat,24,2021,1655135.875,Base_2019_Ratio
+Gujarat,24,2022,1657873.5,Base_2019_Ratio
+Gujarat,24,2023,1656526.0,Base_2019_Ratio
+Gujarat,24,2024,1656043.375,Base_2019_Ratio
+Haryana,6,2020,944133.6875,Base_2019_Ratio
+Haryana,6,2021,977689.875,Base_2019_Ratio
+Haryana,6,2022,998023.75,Base_2019_Ratio
+Haryana,6,2023,1001130.625,Base_2019_Ratio
+Haryana,6,2024,985396.25,Base_2019_Ratio
+Himachal Pradesh,2,2020,282259.59375,Base_2019_Ratio
+Himachal Pradesh,2,2021,275705.4375,Base_2019_Ratio
+Himachal Pradesh,2,2022,274355.28125,Base_2019_Ratio
+Himachal Pradesh,2,2023,274355.28125,Base_2019_Ratio
+Himachal Pradesh,2,2024,276291.90625,Base_2019_Ratio
+Jammu And Kashmir,1,2020,277251.0625,Base_2019_Ratio
+Jammu And Kashmir,1,2021,284260.8125,Base_2019_Ratio
+Jammu And Kashmir,1,2022,283126.78125,Base_2019_Ratio
+Jammu And Kashmir,1,2023,284260.8125,Base_2019_Ratio
+Jammu And Kashmir,1,2024,284260.8125,Base_2019_Ratio
+Jharkhand,20,2020,882576.4375,Base_2019_Ratio
+Jharkhand,20,2021,934132.1875,Base_2019_Ratio
+Jharkhand,20,2022,975934.75,Base_2019_Ratio
+Jharkhand,20,2023,1026044.6875,Base_2019_Ratio
+Jharkhand,20,2024,1043835.875,Base_2019_Ratio
+Karnataka,29,2020,2383462.5,Base_2019_Ratio
+Karnataka,29,2021,2388686.0,Base_2019_Ratio
+Karnataka,29,2022,2374870.5,Base_2019_Ratio
+Karnataka,29,2023,2373628.0,Base_2019_Ratio
+Karnataka,29,2024,2374870.5,Base_2019_Ratio
+Kerala,32,2020,1130937.25,Base_2019_Ratio
+Kerala,32,2021,1113699.0,Base_2019_Ratio
+Kerala,32,2022,1115616.875,Base_2019_Ratio
+Kerala,32,2023,1114403.25,Base_2019_Ratio
+Kerala,32,2024,1117793.375,Base_2019_Ratio
+Lakshadweep,31,2020,4629.04931640625,Base_2019_Ratio
+Lakshadweep,31,2021,5804.96337890625,Base_2019_Ratio
+Lakshadweep,31,2022,5804.96337890625,Base_2019_Ratio
+Lakshadweep,31,2023,4258.259765625,Base_2019_Ratio
+Lakshadweep,31,2024,5337.50634765625,Base_2019_Ratio
+Madhya Pradesh,23,2020,2389060.75,Base_2019_Ratio
+Madhya Pradesh,23,2021,2370705.0,Base_2019_Ratio
+Madhya Pradesh,23,2022,2375515.25,Base_2019_Ratio
+Madhya Pradesh,23,2023,2375452.0,Base_2019_Ratio
+Madhya Pradesh,23,2024,2376166.5,Base_2019_Ratio
+Maharashtra,27,2020,4451910.0,Base_2019_Ratio
+Maharashtra,27,2021,4463801.5,Base_2019_Ratio
+Maharashtra,27,2022,4472755.0,Base_2019_Ratio
+Maharashtra,27,2023,4473555.5,Base_2019_Ratio
+Maharashtra,27,2024,4473555.5,Base_2019_Ratio
+Manipur,14,2020,135068.59375,Base_2019_Ratio
+Manipur,14,2021,134168.75,Base_2019_Ratio
+Manipur,14,2022,133678.453125,Base_2019_Ratio
+Manipur,14,2023,133678.453125,Base_2019_Ratio
+Manipur,14,2024,133678.453125,Base_2019_Ratio
+Meghalaya,17,2020,86273.625,Base_2019_Ratio
+Meghalaya,17,2021,85793.2421875,Base_2019_Ratio
+Meghalaya,17,2022,85793.2421875,Base_2019_Ratio
+Meghalaya,17,2023,85793.2421875,Base_2019_Ratio
+Meghalaya,17,2024,85793.2421875,Base_2019_Ratio
+Mizoram,15,2020,33272.17578125,Base_2019_Ratio
+Mizoram,15,2021,33272.17578125,Base_2019_Ratio
+Mizoram,15,2022,33272.17578125,Base_2019_Ratio
+Mizoram,15,2023,33272.17578125,Base_2019_Ratio
+Mizoram,15,2024,33272.17578125,Base_2019_Ratio
+Nagaland,13,2020,45692.921875,Base_2019_Ratio
+Nagaland,13,2021,45574.2734375,Base_2019_Ratio
+Nagaland,13,2022,46242.94140625,Base_2019_Ratio
+Nagaland,13,2023,46524.07421875,Base_2019_Ratio
+Nagaland,13,2024,46524.07421875,Base_2019_Ratio
+Odisha,21,2020,990136.3125,Base_2019_Ratio
+Odisha,21,2021,1004695.3125,Base_2019_Ratio
+Odisha,21,2022,996381.5,Base_2019_Ratio
+Odisha,21,2023,998416.0625,Base_2019_Ratio
+Odisha,21,2024,1002901.5,Base_2019_Ratio
+Puducherry,34,2020,53062.06640625,Base_2019_Ratio
+Puducherry,34,2021,53578.640625,Base_2019_Ratio
+Puducherry,34,2022,52907.6953125,Base_2019_Ratio
+Puducherry,34,2023,52907.6953125,Base_2019_Ratio
+Puducherry,34,2024,52852.7265625,Base_2019_Ratio
+Punjab,3,2020,878818.3125,Base_2019_Ratio
+Punjab,3,2021,911750.4375,Base_2019_Ratio
+Punjab,3,2022,916791.8125,Base_2019_Ratio
+Punjab,3,2023,918664.3125,Base_2019_Ratio
+Punjab,3,2024,913224.6875,Base_2019_Ratio
+Rajasthan,8,2020,2368547.75,Base_2019_Ratio
+Rajasthan,8,2021,2373417.5,Base_2019_Ratio
+Rajasthan,8,2022,2389767.25,Base_2019_Ratio
+Rajasthan,8,2023,2399036.0,Base_2019_Ratio
+Rajasthan,8,2024,2395945.5,Base_2019_Ratio
+Sikkim,11,2020,61102.83984375,Base_2019_Ratio
+Sikkim,11,2021,64601.12890625,Base_2019_Ratio
+Sikkim,11,2022,64601.12890625,Base_2019_Ratio
+Sikkim,11,2023,63088.55859375,Base_2019_Ratio
+Sikkim,11,2024,62821.109375,Base_2019_Ratio
+Tamil Nadu,33,2020,3679101.0,Base_2019_Ratio
+Tamil Nadu,33,2021,3698562.0,Base_2019_Ratio
+Tamil Nadu,33,2022,3688766.0,Base_2019_Ratio
+Tamil Nadu,33,2023,3688766.0,Base_2019_Ratio
+Tamil Nadu,33,2024,3678591.75,Base_2019_Ratio
+Telangana,36,2020,1124230.0,Base_2019_Ratio
+Telangana,36,2021,1118036.375,Base_2019_Ratio
+Telangana,36,2022,1117148.25,Base_2019_Ratio
+Telangana,36,2023,1118450.0,Base_2019_Ratio
+Telangana,36,2024,1118959.25,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,38,2020,9424.50390625,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,38,2021,8957.048828125,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,38,2022,10259.703125,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,38,2023,9424.50390625,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,38,2024,8957.048828125,Base_2019_Ratio
+Tripura,16,2020,89733.03125,Base_2019_Ratio
+Tripura,16,2021,89733.03125,Base_2019_Ratio
+Tripura,16,2022,87330.921875,Base_2019_Ratio
+Tripura,16,2023,88567.7890625,Base_2019_Ratio
+Tripura,16,2024,87330.921875,Base_2019_Ratio
+Uttar Pradesh,9,2020,6195478.5,Base_2019_Ratio
+Uttar Pradesh,9,2021,6294833.5,Base_2019_Ratio
+Uttar Pradesh,9,2022,6302573.0,Base_2019_Ratio
+Uttar Pradesh,9,2023,6285800.0,Base_2019_Ratio
+Uttar Pradesh,9,2024,6285800.0,Base_2019_Ratio
+Uttarakhand,5,2020,572332.75,Base_2019_Ratio
+Uttarakhand,5,2021,582569.6875,Base_2019_Ratio
+Uttarakhand,5,2022,624175.125,Base_2019_Ratio
+Uttarakhand,5,2023,639777.625,Base_2019_Ratio
+Uttarakhand,5,2024,639886.4375,Base_2019_Ratio
+West Bengal,19,2020,2235876.75,Base_2019_Ratio
+West Bengal,19,2021,2237706.5,Base_2019_Ratio
+West Bengal,19,2022,2249707.0,Base_2019_Ratio
+West Bengal,19,2023,2270259.5,Base_2019_Ratio
+West Bengal,19,2024,2267448.5,Base_2019_Ratio
+Andaman And Nicobar Islands,35,2020,12213.166015625,Lower_Ratio_Scenario
+Andaman And Nicobar Islands,35,2021,14081.2265625,Lower_Ratio_Scenario
+Andaman And Nicobar Islands,35,2022,14393.4404296875,Lower_Ratio_Scenario
+Andaman And Nicobar Islands,35,2023,12488.3984375,Lower_Ratio_Scenario
+Andaman And Nicobar Islands,35,2024,13811.9951171875,Lower_Ratio_Scenario
+Andhra Pradesh,28,2020,1880290.875,Lower_Ratio_Scenario
+Andhra Pradesh,28,2021,1917914.5,Lower_Ratio_Scenario
+Andhra Pradesh,28,2022,1932659.0,Lower_Ratio_Scenario
+Andhra Pradesh,28,2023,2065692.875,Lower_Ratio_Scenario
+Andhra Pradesh,28,2024,2073258.375,Lower_Ratio_Scenario
+Arunachal Pradesh,12,2020,58229.23828125,Lower_Ratio_Scenario
+Arunachal Pradesh,12,2021,57628.71484375,Lower_Ratio_Scenario
+Arunachal Pradesh,12,2022,57055.703125,Lower_Ratio_Scenario
+Arunachal Pradesh,12,2023,57055.703125,Lower_Ratio_Scenario
+Arunachal Pradesh,12,2024,57055.703125,Lower_Ratio_Scenario
+Assam,18,2020,660983.9375,Lower_Ratio_Scenario
+Assam,18,2021,651811.8125,Lower_Ratio_Scenario
+Assam,18,2022,649584.4375,Lower_Ratio_Scenario
+Assam,18,2023,649584.4375,Lower_Ratio_Scenario
+Assam,18,2024,650337.5,Lower_Ratio_Scenario
+Bihar,10,2020,1789959.0,Lower_Ratio_Scenario
+Bihar,10,2021,1850480.125,Lower_Ratio_Scenario
+Bihar,10,2022,1942674.125,Lower_Ratio_Scenario
+Bihar,10,2023,2054334.75,Lower_Ratio_Scenario
+Bihar,10,2024,2059714.125,Lower_Ratio_Scenario
+Chandigarh,4,2020,102449.4140625,Lower_Ratio_Scenario
+Chandigarh,4,2021,97804.0234375,Lower_Ratio_Scenario
+Chandigarh,4,2022,98441.2734375,Lower_Ratio_Scenario
+Chandigarh,4,2023,97770.3203125,Lower_Ratio_Scenario
+Chandigarh,4,2024,97770.3203125,Lower_Ratio_Scenario
+Chhattisgarh,22,2020,626782.0625,Lower_Ratio_Scenario
+Chhattisgarh,22,2021,629757.0625,Lower_Ratio_Scenario
+Chhattisgarh,22,2022,627613.5625,Lower_Ratio_Scenario
+Chhattisgarh,22,2023,623198.6875,Lower_Ratio_Scenario
+Chhattisgarh,22,2024,623198.6875,Lower_Ratio_Scenario
+Delhi,7,2020,991004.0625,Lower_Ratio_Scenario
+Delhi,7,2021,992109.625,Lower_Ratio_Scenario
+Delhi,7,2022,993349.0,Lower_Ratio_Scenario
+Delhi,7,2023,993349.0,Lower_Ratio_Scenario
+Delhi,7,2024,993349.0,Lower_Ratio_Scenario
+Goa,30,2020,51448.6328125,Lower_Ratio_Scenario
+Goa,30,2021,51448.6328125,Lower_Ratio_Scenario
+Goa,30,2022,50777.6875,Lower_Ratio_Scenario
+Goa,30,2023,50777.6875,Lower_Ratio_Scenario
+Goa,30,2024,50777.6875,Lower_Ratio_Scenario
+Gujarat,24,2020,1648835.875,Lower_Ratio_Scenario
+Gujarat,24,2021,1665000.625,Lower_Ratio_Scenario
+Gujarat,24,2022,1666521.5,Lower_Ratio_Scenario
+Gujarat,24,2023,1665174.0,Lower_Ratio_Scenario
+Gujarat,24,2024,1664691.375,Lower_Ratio_Scenario
+Haryana,6,2020,944133.6875,Lower_Ratio_Scenario
+Haryana,6,2021,977689.875,Lower_Ratio_Scenario
+Haryana,6,2022,998023.75,Lower_Ratio_Scenario
+Haryana,6,2023,1001130.625,Lower_Ratio_Scenario
+Haryana,6,2024,985396.25,Lower_Ratio_Scenario
+Himachal Pradesh,2,2020,282259.59375,Lower_Ratio_Scenario
+Himachal Pradesh,2,2021,275099.40625,Lower_Ratio_Scenario
+Himachal Pradesh,2,2022,275783.28125,Lower_Ratio_Scenario
+Himachal Pradesh,2,2023,282124.90625,Lower_Ratio_Scenario
+Himachal Pradesh,2,2024,283711.9375,Lower_Ratio_Scenario
+Jammu And Kashmir,1,2020,277251.0625,Lower_Ratio_Scenario
+Jammu And Kashmir,1,2021,283750.9375,Lower_Ratio_Scenario
+Jammu And Kashmir,1,2022,283082.25,Lower_Ratio_Scenario
+Jammu And Kashmir,1,2023,283750.9375,Lower_Ratio_Scenario
+Jammu And Kashmir,1,2024,283750.9375,Lower_Ratio_Scenario
+Jharkhand,20,2020,882576.4375,Lower_Ratio_Scenario
+Jharkhand,20,2021,934568.6875,Lower_Ratio_Scenario
+Jharkhand,20,2022,976371.25,Lower_Ratio_Scenario
+Jharkhand,20,2023,1026481.25,Lower_Ratio_Scenario
+Jharkhand,20,2024,1041345.8125,Lower_Ratio_Scenario
+Karnataka,29,2020,2383462.5,Lower_Ratio_Scenario
+Karnataka,29,2021,2410230.25,Lower_Ratio_Scenario
+Karnataka,29,2022,2409676.25,Lower_Ratio_Scenario
+Karnataka,29,2023,2396414.75,Lower_Ratio_Scenario
+Karnataka,29,2024,2395172.25,Lower_Ratio_Scenario
+Kerala,32,2020,1130937.25,Lower_Ratio_Scenario
+Kerala,32,2021,1110394.25,Lower_Ratio_Scenario
+Kerala,32,2022,1112312.125,Lower_Ratio_Scenario
+Kerala,32,2023,1111098.5,Lower_Ratio_Scenario
+Kerala,32,2024,1114488.625,Lower_Ratio_Scenario
+Lakshadweep,31,2020,4629.04931640625,Lower_Ratio_Scenario
+Lakshadweep,31,2021,5087.07763671875,Lower_Ratio_Scenario
+Lakshadweep,31,2022,5087.07763671875,Lower_Ratio_Scenario
+Lakshadweep,31,2023,3540.37255859375,Lower_Ratio_Scenario
+Lakshadweep,31,2024,4619.61865234375,Lower_Ratio_Scenario
+Madhya Pradesh,23,2020,2389060.75,Lower_Ratio_Scenario
+Madhya Pradesh,23,2021,2367851.5,Lower_Ratio_Scenario
+Madhya Pradesh,23,2022,2374877.0,Lower_Ratio_Scenario
+Madhya Pradesh,23,2023,2384082.5,Lower_Ratio_Scenario
+Madhya Pradesh,23,2024,2384797.0,Lower_Ratio_Scenario
+Maharashtra,27,2020,4451910.0,Lower_Ratio_Scenario
+Maharashtra,27,2021,4520487.0,Lower_Ratio_Scenario
+Maharashtra,27,2022,4530273.5,Lower_Ratio_Scenario
+Maharashtra,27,2023,4531074.0,Lower_Ratio_Scenario
+Maharashtra,27,2024,4531074.0,Lower_Ratio_Scenario
+Manipur,14,2020,135068.59375,Lower_Ratio_Scenario
+Manipur,14,2021,128338.3828125,Lower_Ratio_Scenario
+Manipur,14,2022,129793.5859375,Lower_Ratio_Scenario
+Manipur,14,2023,128167.15625,Lower_Ratio_Scenario
+Manipur,14,2024,128167.15625,Lower_Ratio_Scenario
+Meghalaya,17,2020,86273.625,Lower_Ratio_Scenario
+Meghalaya,17,2021,85543.046875,Lower_Ratio_Scenario
+Meghalaya,17,2022,85543.046875,Lower_Ratio_Scenario
+Meghalaya,17,2023,85543.046875,Lower_Ratio_Scenario
+Meghalaya,17,2024,85543.046875,Lower_Ratio_Scenario
+Mizoram,15,2020,33272.17578125,Lower_Ratio_Scenario
+Mizoram,15,2021,34565.3828125,Lower_Ratio_Scenario
+Mizoram,15,2022,36476.47265625,Lower_Ratio_Scenario
+Mizoram,15,2023,36860.1171875,Lower_Ratio_Scenario
+Mizoram,15,2024,34565.3828125,Lower_Ratio_Scenario
+Nagaland,13,2020,45692.921875,Lower_Ratio_Scenario
+Nagaland,13,2021,45574.2734375,Lower_Ratio_Scenario
+Nagaland,13,2022,46242.94140625,Lower_Ratio_Scenario
+Nagaland,13,2023,46524.07421875,Lower_Ratio_Scenario
+Nagaland,13,2024,46524.07421875,Lower_Ratio_Scenario
+Odisha,21,2020,990136.3125,Lower_Ratio_Scenario
+Odisha,21,2021,1007690.8125,Lower_Ratio_Scenario
+Odisha,21,2022,999162.375,Lower_Ratio_Scenario
+Odisha,21,2023,1001411.5625,Lower_Ratio_Scenario
+Odisha,21,2024,1005897.0,Lower_Ratio_Scenario
+Puducherry,34,2020,53062.06640625,Lower_Ratio_Scenario
+Puducherry,34,2021,53623.5703125,Lower_Ratio_Scenario
+Puducherry,34,2022,52952.625,Lower_Ratio_Scenario
+Puducherry,34,2023,52952.625,Lower_Ratio_Scenario
+Puducherry,34,2024,52897.65625,Lower_Ratio_Scenario
+Punjab,3,2020,878818.3125,Lower_Ratio_Scenario
+Punjab,3,2021,913271.625,Lower_Ratio_Scenario
+Punjab,3,2022,918312.9375,Lower_Ratio_Scenario
+Punjab,3,2023,920185.5,Lower_Ratio_Scenario
+Punjab,3,2024,913276.125,Lower_Ratio_Scenario
+Rajasthan,8,2020,2368547.75,Lower_Ratio_Scenario
+Rajasthan,8,2021,2372865.25,Lower_Ratio_Scenario
+Rajasthan,8,2022,2389215.0,Lower_Ratio_Scenario
+Rajasthan,8,2023,2398483.75,Lower_Ratio_Scenario
+Rajasthan,8,2024,2395393.25,Lower_Ratio_Scenario
+Sikkim,11,2020,61102.83984375,Lower_Ratio_Scenario
+Sikkim,11,2021,58169.0703125,Lower_Ratio_Scenario
+Sikkim,11,2022,59338.63671875,Lower_Ratio_Scenario
+Sikkim,11,2023,56768.23046875,Lower_Ratio_Scenario
+Sikkim,11,2024,58789.8046875,Lower_Ratio_Scenario
+Tamil Nadu,33,2020,3679101.0,Lower_Ratio_Scenario
+Tamil Nadu,33,2021,3697020.5,Lower_Ratio_Scenario
+Tamil Nadu,33,2022,3686964.0,Lower_Ratio_Scenario
+Tamil Nadu,33,2023,3686964.0,Lower_Ratio_Scenario
+Tamil Nadu,33,2024,3676789.75,Lower_Ratio_Scenario
+Telangana,36,2020,1124230.0,Lower_Ratio_Scenario
+Telangana,36,2021,1118525.5,Lower_Ratio_Scenario
+Telangana,36,2022,1117637.375,Lower_Ratio_Scenario
+Telangana,36,2023,1118939.125,Lower_Ratio_Scenario
+Telangana,36,2024,1119448.375,Lower_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2020,9424.50390625,Lower_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2021,5750.802734375,Lower_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2022,5750.802734375,Lower_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2023,4671.55615234375,Lower_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2024,5750.802734375,Lower_Ratio_Scenario
+Tripura,16,2020,89733.03125,Lower_Ratio_Scenario
+Tripura,16,2021,93362.328125,Lower_Ratio_Scenario
+Tripura,16,2022,100276.390625,Lower_Ratio_Scenario
+Tripura,16,2023,104401.6015625,Lower_Ratio_Scenario
+Tripura,16,2024,104062.1875,Lower_Ratio_Scenario
+Uttar Pradesh,9,2020,6195478.5,Lower_Ratio_Scenario
+Uttar Pradesh,9,2021,6295651.0,Lower_Ratio_Scenario
+Uttar Pradesh,9,2022,6302834.5,Lower_Ratio_Scenario
+Uttar Pradesh,9,2023,6286061.5,Lower_Ratio_Scenario
+Uttar Pradesh,9,2024,6286061.5,Lower_Ratio_Scenario
+Uttarakhand,5,2020,572332.75,Lower_Ratio_Scenario
+Uttarakhand,5,2021,580535.9375,Lower_Ratio_Scenario
+Uttarakhand,5,2022,585817.1875,Lower_Ratio_Scenario
+Uttarakhand,5,2023,637748.0,Lower_Ratio_Scenario
+Uttarakhand,5,2024,637743.875,Lower_Ratio_Scenario
+West Bengal,19,2020,2235876.75,Lower_Ratio_Scenario
+West Bengal,19,2021,2248605.75,Lower_Ratio_Scenario
+West Bengal,19,2022,2260606.25,Lower_Ratio_Scenario
+West Bengal,19,2023,2281158.75,Lower_Ratio_Scenario
+West Bengal,19,2024,2278347.75,Lower_Ratio_Scenario
+Andaman And Nicobar Islands,35,2020,12213.166015625,Upper_Ratio_Scenario
+Andaman And Nicobar Islands,35,2021,13624.3720703125,Upper_Ratio_Scenario
+Andaman And Nicobar Islands,35,2022,13936.5859375,Upper_Ratio_Scenario
+Andaman And Nicobar Islands,35,2023,12031.5439453125,Upper_Ratio_Scenario
+Andaman And Nicobar Islands,35,2024,13355.140625,Upper_Ratio_Scenario
+Andhra Pradesh,28,2020,1880290.875,Upper_Ratio_Scenario
+Andhra Pradesh,28,2021,1922992.0,Upper_Ratio_Scenario
+Andhra Pradesh,28,2022,1937476.0,Upper_Ratio_Scenario
+Andhra Pradesh,28,2023,2070770.625,Upper_Ratio_Scenario
+Andhra Pradesh,28,2024,2077953.5,Upper_Ratio_Scenario
+Arunachal Pradesh,12,2020,58229.23828125,Upper_Ratio_Scenario
+Arunachal Pradesh,12,2021,58552.15625,Upper_Ratio_Scenario
+Arunachal Pradesh,12,2022,58987.6484375,Upper_Ratio_Scenario
+Arunachal Pradesh,12,2023,58987.6484375,Upper_Ratio_Scenario
+Arunachal Pradesh,12,2024,58987.6484375,Upper_Ratio_Scenario
+Assam,18,2020,660983.9375,Upper_Ratio_Scenario
+Assam,18,2021,659416.25,Upper_Ratio_Scenario
+Assam,18,2022,657188.875,Upper_Ratio_Scenario
+Assam,18,2023,657188.875,Upper_Ratio_Scenario
+Assam,18,2024,657941.9375,Upper_Ratio_Scenario
+Bihar,10,2020,1789959.0,Upper_Ratio_Scenario
+Bihar,10,2021,1832884.625,Upper_Ratio_Scenario
+Bihar,10,2022,1935111.875,Upper_Ratio_Scenario
+Bihar,10,2023,2047133.25,Upper_Ratio_Scenario
+Bihar,10,2024,2053817.5,Upper_Ratio_Scenario
+Chandigarh,4,2020,102449.4140625,Upper_Ratio_Scenario
+Chandigarh,4,2021,99839.03125,Upper_Ratio_Scenario
+Chandigarh,4,2022,100476.28125,Upper_Ratio_Scenario
+Chandigarh,4,2023,99805.328125,Upper_Ratio_Scenario
+Chandigarh,4,2024,99805.328125,Upper_Ratio_Scenario
+Chhattisgarh,22,2020,626782.0625,Upper_Ratio_Scenario
+Chhattisgarh,22,2021,628398.4375,Upper_Ratio_Scenario
+Chhattisgarh,22,2022,626254.9375,Upper_Ratio_Scenario
+Chhattisgarh,22,2023,621840.0625,Upper_Ratio_Scenario
+Chhattisgarh,22,2024,621840.0625,Upper_Ratio_Scenario
+Delhi,7,2020,991004.0625,Upper_Ratio_Scenario
+Delhi,7,2021,994600.0,Upper_Ratio_Scenario
+Delhi,7,2022,995839.375,Upper_Ratio_Scenario
+Delhi,7,2023,995839.375,Upper_Ratio_Scenario
+Delhi,7,2024,995839.375,Upper_Ratio_Scenario
+Goa,30,2020,51448.6328125,Upper_Ratio_Scenario
+Goa,30,2021,51448.6328125,Upper_Ratio_Scenario
+Goa,30,2022,50777.6875,Upper_Ratio_Scenario
+Goa,30,2023,50777.6875,Upper_Ratio_Scenario
+Goa,30,2024,50777.6875,Upper_Ratio_Scenario
+Gujarat,24,2020,1648835.875,Upper_Ratio_Scenario
+Gujarat,24,2021,1653928.5,Upper_Ratio_Scenario
+Gujarat,24,2022,1656666.125,Upper_Ratio_Scenario
+Gujarat,24,2023,1655318.625,Upper_Ratio_Scenario
+Gujarat,24,2024,1654836.0,Upper_Ratio_Scenario
+Haryana,6,2020,944133.6875,Upper_Ratio_Scenario
+Haryana,6,2021,979685.4375,Upper_Ratio_Scenario
+Haryana,6,2022,999174.8125,Upper_Ratio_Scenario
+Haryana,6,2023,1003126.1875,Upper_Ratio_Scenario
+Haryana,6,2024,987391.8125,Upper_Ratio_Scenario
+Himachal Pradesh,2,2020,282259.59375,Upper_Ratio_Scenario
+Himachal Pradesh,2,2021,275705.4375,Upper_Ratio_Scenario
+Himachal Pradesh,2,2022,274355.28125,Upper_Ratio_Scenario
+Himachal Pradesh,2,2023,274355.28125,Upper_Ratio_Scenario
+Himachal Pradesh,2,2024,276291.90625,Upper_Ratio_Scenario
+Jammu And Kashmir,1,2020,277251.0625,Upper_Ratio_Scenario
+Jammu And Kashmir,1,2021,286863.15625,Upper_Ratio_Scenario
+Jammu And Kashmir,1,2022,285729.125,Upper_Ratio_Scenario
+Jammu And Kashmir,1,2023,286863.15625,Upper_Ratio_Scenario
+Jammu And Kashmir,1,2024,286863.15625,Upper_Ratio_Scenario
+Jharkhand,20,2020,882576.4375,Upper_Ratio_Scenario
+Jharkhand,20,2021,922363.5625,Upper_Ratio_Scenario
+Jharkhand,20,2022,962850.375,Upper_Ratio_Scenario
+Jharkhand,20,2023,982380.125,Upper_Ratio_Scenario
+Jharkhand,20,2024,1017523.6875,Upper_Ratio_Scenario
+Karnataka,29,2020,2383462.5,Upper_Ratio_Scenario
+Karnataka,29,2021,2391945.5,Upper_Ratio_Scenario
+Karnataka,29,2022,2389722.0,Upper_Ratio_Scenario
+Karnataka,29,2023,2378129.5,Upper_Ratio_Scenario
+Karnataka,29,2024,2376887.0,Upper_Ratio_Scenario
+Kerala,32,2020,1130937.25,Upper_Ratio_Scenario
+Kerala,32,2021,1118327.375,Upper_Ratio_Scenario
+Kerala,32,2022,1120245.25,Upper_Ratio_Scenario
+Kerala,32,2023,1119031.625,Upper_Ratio_Scenario
+Kerala,32,2024,1122421.75,Upper_Ratio_Scenario
+Lakshadweep,31,2020,4629.04931640625,Upper_Ratio_Scenario
+Lakshadweep,31,2021,5804.96337890625,Upper_Ratio_Scenario
+Lakshadweep,31,2022,5804.96337890625,Upper_Ratio_Scenario
+Lakshadweep,31,2023,4258.259765625,Upper_Ratio_Scenario
+Lakshadweep,31,2024,5337.50634765625,Upper_Ratio_Scenario
+Madhya Pradesh,23,2020,2389060.75,Upper_Ratio_Scenario
+Madhya Pradesh,23,2021,2369534.75,Upper_Ratio_Scenario
+Madhya Pradesh,23,2022,2374345.25,Upper_Ratio_Scenario
+Madhya Pradesh,23,2023,2374282.0,Upper_Ratio_Scenario
+Madhya Pradesh,23,2024,2374996.5,Upper_Ratio_Scenario
+Maharashtra,27,2020,4451910.0,Upper_Ratio_Scenario
+Maharashtra,27,2021,4465609.5,Upper_Ratio_Scenario
+Maharashtra,27,2022,4474564.0,Upper_Ratio_Scenario
+Maharashtra,27,2023,4475363.5,Upper_Ratio_Scenario
+Maharashtra,27,2024,4475363.5,Upper_Ratio_Scenario
+Manipur,14,2020,135068.59375,Upper_Ratio_Scenario
+Manipur,14,2021,133992.875,Upper_Ratio_Scenario
+Manipur,14,2022,133956.796875,Upper_Ratio_Scenario
+Manipur,14,2023,133956.796875,Upper_Ratio_Scenario
+Manipur,14,2024,133956.796875,Upper_Ratio_Scenario
+Meghalaya,17,2020,86273.625,Upper_Ratio_Scenario
+Meghalaya,17,2021,87828.25,Upper_Ratio_Scenario
+Meghalaya,17,2022,87613.6171875,Upper_Ratio_Scenario
+Meghalaya,17,2023,87828.25,Upper_Ratio_Scenario
+Meghalaya,17,2024,87828.25,Upper_Ratio_Scenario
+Mizoram,15,2020,33272.17578125,Upper_Ratio_Scenario
+Mizoram,15,2021,33158.53515625,Upper_Ratio_Scenario
+Mizoram,15,2022,33158.53515625,Upper_Ratio_Scenario
+Mizoram,15,2023,33158.53515625,Upper_Ratio_Scenario
+Mizoram,15,2024,33158.53515625,Upper_Ratio_Scenario
+Nagaland,13,2020,45692.921875,Upper_Ratio_Scenario
+Nagaland,13,2021,45687.77734375,Upper_Ratio_Scenario
+Nagaland,13,2022,46356.4453125,Upper_Ratio_Scenario
+Nagaland,13,2023,46637.578125,Upper_Ratio_Scenario
+Nagaland,13,2024,46637.578125,Upper_Ratio_Scenario
+Odisha,21,2020,990136.3125,Upper_Ratio_Scenario
+Odisha,21,2021,1002719.8125,Upper_Ratio_Scenario
+Odisha,21,2022,994406.0,Upper_Ratio_Scenario
+Odisha,21,2023,996440.5625,Upper_Ratio_Scenario
+Odisha,21,2024,1000926.0,Upper_Ratio_Scenario
+Puducherry,34,2020,53062.06640625,Upper_Ratio_Scenario
+Puducherry,34,2021,53578.640625,Upper_Ratio_Scenario
+Puducherry,34,2022,52907.6953125,Upper_Ratio_Scenario
+Puducherry,34,2023,52907.6953125,Upper_Ratio_Scenario
+Puducherry,34,2024,52852.7265625,Upper_Ratio_Scenario
+Punjab,3,2020,878818.3125,Upper_Ratio_Scenario
+Punjab,3,2021,913067.625,Upper_Ratio_Scenario
+Punjab,3,2022,918108.9375,Upper_Ratio_Scenario
+Punjab,3,2023,919981.5,Upper_Ratio_Scenario
+Punjab,3,2024,912667.1875,Upper_Ratio_Scenario
+Rajasthan,8,2020,2368547.75,Upper_Ratio_Scenario
+Rajasthan,8,2021,2377609.5,Upper_Ratio_Scenario
+Rajasthan,8,2022,2405162.75,Upper_Ratio_Scenario
+Rajasthan,8,2023,2405162.75,Upper_Ratio_Scenario
+Rajasthan,8,2024,2392803.5,Upper_Ratio_Scenario
+Sikkim,11,2020,61102.83984375,Upper_Ratio_Scenario
+Sikkim,11,2021,55903.1171875,Upper_Ratio_Scenario
+Sikkim,11,2022,56435.20703125,Upper_Ratio_Scenario
+Sikkim,11,2023,55607.37109375,Upper_Ratio_Scenario
+Sikkim,11,2024,55339.921875,Upper_Ratio_Scenario
+Tamil Nadu,33,2020,3679101.0,Upper_Ratio_Scenario
+Tamil Nadu,33,2021,3707911.5,Upper_Ratio_Scenario
+Tamil Nadu,33,2022,3699146.0,Upper_Ratio_Scenario
+Tamil Nadu,33,2023,3699146.0,Upper_Ratio_Scenario
+Tamil Nadu,33,2024,3688971.75,Upper_Ratio_Scenario
+Telangana,36,2020,1124230.0,Upper_Ratio_Scenario
+Telangana,36,2021,1118585.125,Upper_Ratio_Scenario
+Telangana,36,2022,1117697.0,Upper_Ratio_Scenario
+Telangana,36,2023,1118998.75,Upper_Ratio_Scenario
+Telangana,36,2024,1119508.0,Upper_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2020,9424.50390625,Upper_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2021,8039.43994140625,Upper_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2022,8039.43994140625,Upper_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2023,6960.193359375,Upper_Ratio_Scenario
+The Dadra And Nagar Haveli And Daman And Diu,38,2024,8039.43994140625,Upper_Ratio_Scenario
+Tripura,16,2020,89733.03125,Upper_Ratio_Scenario
+Tripura,16,2021,89911.8203125,Upper_Ratio_Scenario
+Tripura,16,2022,88726.53125,Upper_Ratio_Scenario
+Tripura,16,2023,95640.59375,Upper_Ratio_Scenario
+Tripura,16,2024,100951.09375,Upper_Ratio_Scenario
+Uttar Pradesh,9,2020,6195478.5,Upper_Ratio_Scenario
+Uttar Pradesh,9,2021,6294833.5,Upper_Ratio_Scenario
+Uttar Pradesh,9,2022,6302573.0,Upper_Ratio_Scenario
+Uttar Pradesh,9,2023,6285800.0,Upper_Ratio_Scenario
+Uttar Pradesh,9,2024,6285800.0,Upper_Ratio_Scenario
+Uttarakhand,5,2020,572332.75,Upper_Ratio_Scenario
+Uttarakhand,5,2021,584738.1875,Upper_Ratio_Scenario
+Uttarakhand,5,2022,625889.5625,Upper_Ratio_Scenario
+Uttarakhand,5,2023,641946.125,Upper_Ratio_Scenario
+Uttarakhand,5,2024,677321.375,Upper_Ratio_Scenario
+West Bengal,19,2020,2235876.75,Upper_Ratio_Scenario
+West Bengal,19,2021,2241965.5,Upper_Ratio_Scenario
+West Bengal,19,2022,2253966.0,Upper_Ratio_Scenario
+West Bengal,19,2023,2274518.5,Upper_Ratio_Scenario
+West Bengal,19,2024,2271707.5,Upper_Ratio_Scenario

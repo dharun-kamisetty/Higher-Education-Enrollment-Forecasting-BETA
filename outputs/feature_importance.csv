@@ -1,0 +1,51 @@
+feature,importance,model
+enrollment_lag_1,0.3538273552816261,Random Forest
+rolling_mean,0.3401949809901181,Random Forest
+teachers_lag1,0.09646934570594565,Random Forest
+colleges_lag1,0.05078758095812766,Random Forest
+stand_alone_institutions_lag1,0.04463561593856968,Random Forest
+university_enrolment_lag1,0.03647122784260635,Random Forest
+enrollment_lag_2,0.016357268692010363,Random Forest
+foreign_students_lag1,0.014505688536792993,Random Forest
+universities_lag1,0.01347204334007316,Random Forest
+State,0.010116243236917953,Random Forest
+PTR_university_colleges_lag1,0.009343110391037699,Random Forest
+GER_lag1,0.0053017175596752905,Random Forest
+GPI_lag1,0.0051938106850040935,Random Forest
+PTR_all_lag1,0.002738369993488048,Random Forest
+PTR_university_units_lag1,0.0003774565965945319,Random Forest
+enrollment_growth,0.00014718415273853053,Random Forest
+Year,6.100009867390611e-05,Random Forest
+enrollment_lag_1,0.8338155746459961,XGBoost
+colleges_lag1,0.1122368723154068,XGBoost
+rolling_mean,0.03103472851216793,XGBoost
+teachers_lag1,0.007594681810587645,XGBoost
+GPI_lag1,0.0038600016850978136,XGBoost
+university_enrolment_lag1,0.002477623289451003,XGBoost
+PTR_university_units_lag1,0.00196257745847106,XGBoost
+State,0.001943871844559908,XGBoost
+enrollment_lag_2,0.0010549342259764671,XGBoost
+PTR_all_lag1,0.0009899209253489971,XGBoost
+GER_lag1,0.0005495792720466852,XGBoost
+universities_lag1,0.0005285376100800931,XGBoost
+PTR_university_colleges_lag1,0.0005222081672400236,XGBoost
+stand_alone_institutions_lag1,0.0004922594525851309,XGBoost
+Year,0.0003443861787673086,XGBoost
+foreign_students_lag1,0.0003014780522789806,XGBoost
+enrollment_growth,0.00029071251628920436,XGBoost
+enrollment_lag_1,175.0,LightGBM
+PTR_all_lag1,104.0,LightGBM
+colleges_lag1,100.0,LightGBM
+GPI_lag1,77.0,LightGBM
+teachers_lag1,65.0,LightGBM
+universities_lag1,65.0,LightGBM
+university_enrolment_lag1,59.0,LightGBM
+GER_lag1,53.0,LightGBM
+PTR_university_units_lag1,51.0,LightGBM
+PTR_university_colleges_lag1,47.0,LightGBM
+foreign_students_lag1,46.0,LightGBM
+rolling_mean,45.0,LightGBM
+stand_alone_institutions_lag1,44.0,LightGBM
+enrollment_lag_2,36.0,LightGBM
+enrollment_growth,29.0,LightGBM
+Year,22.0,LightGBM

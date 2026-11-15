@@ -1,0 +1,106 @@
+State,Model,Method
+Andaman And Nicobar Islands,ARIMA,fitted
+Andhra Pradesh,ARIMA,fitted
+Arunachal Pradesh,ARIMA,fitted
+Assam,ARIMA,fitted
+Bihar,ARIMA,fitted
+Chandigarh,ARIMA,fitted
+Chhattisgarh,ARIMA,fitted
+Delhi,ARIMA,fitted
+Goa,ARIMA,fitted
+Gujarat,ARIMA,fitted
+Haryana,ARIMA,fitted
+Himachal Pradesh,ARIMA,fitted
+Jammu And Kashmir,ARIMA,fitted
+Jharkhand,ARIMA,fitted
+Karnataka,ARIMA,fitted
+Kerala,ARIMA,fitted
+Lakshadweep,ARIMA,fitted
+Madhya Pradesh,ARIMA,fitted
+Maharashtra,ARIMA,fitted
+Manipur,ARIMA,fitted
+Meghalaya,ARIMA,fitted
+Mizoram,ARIMA,fitted
+Nagaland,ARIMA,fitted
+Odisha,ARIMA,fitted
+Puducherry,ARIMA,fitted
+Punjab,ARIMA,fitted
+Rajasthan,ARIMA,fitted
+Sikkim,ARIMA,fitted
+Tamil Nadu,ARIMA,fitted
+Telangana,ARIMA,fitted
+The Dadra And Nagar Haveli And Daman And Diu,ARIMA,fitted
+Tripura,ARIMA,fitted
+Uttar Pradesh,ARIMA,fitted
+Uttarakhand,ARIMA,fitted
+West Bengal,ARIMA,fitted
+Andaman And Nicobar Islands,ETS,fitted
+Andhra Pradesh,ETS,fitted
+Arunachal Pradesh,ETS,fitted
+Assam,ETS,fitted
+Bihar,ETS,fitted
+Chandigarh,ETS,fitted
+Chhattisgarh,ETS,fitted
+Delhi,ETS,fitted
+Goa,ETS,fitted
+Gujarat,ETS,fitted
+Haryana,ETS,fitted
+Himachal Pradesh,ETS,fitted
+Jammu And Kashmir,ETS,fitted
+Jharkhand,ETS,fitted
+Karnataka,ETS,fitted
+Kerala,ETS,fitted
+Lakshadweep,ETS,fitted
+Madhya Pradesh,ETS,fitted
+Maharashtra,ETS,fitted
+Manipur,ETS,fitted
+Meghalaya,ETS,fitted
+Mizoram,ETS,fitted
+Nagaland,ETS,fitted
+Odisha,ETS,fitted
+Puducherry,ETS,fitted
+Punjab,ETS,fitted
+Rajasthan,ETS,fitted
+Sikkim,ETS,fitted
+Tamil Nadu,ETS,fitted
+Telangana,ETS,fitted
+The Dadra And Nagar Haveli And Daman And Diu,ETS,fitted
+Tripura,ETS,fitted
+Uttar Pradesh,ETS,fitted
+Uttarakhand,ETS,fitted
+West Bengal,ETS,fitted
+Andaman And Nicobar Islands,TBATS,fitted
+Andhra Pradesh,TBATS,fitted
+Arunachal Pradesh,TBATS,fitted
+Assam,TBATS,fitted
+Bihar,TBATS,fitted
+Chandigarh,TBATS,fitted
+Chhattisgarh,TBATS,fitted
+Delhi,TBATS,fitted
+Goa,TBATS,fitted
+Gujarat,TBATS,fitted
+Haryana,TBATS,fitted
+Himachal Pradesh,TBATS,fitted
+Jammu And Kashmir,TBATS,fitted
+Jharkhand,TBATS,fitted
+Karnataka,TBATS,fitted
+Kerala,TBATS,fitted
+Lakshadweep,TBATS,fitted
+Madhya Pradesh,TBATS,fitted
+Maharashtra,TBATS,fitted
+Manipur,TBATS,fitted
+Meghalaya,TBATS,fitted
+Mizoram,TBATS,fitted
+Nagaland,TBATS,fitted
+Odisha,TBATS,fitted
+Puducherry,TBATS,fitted
+Punjab,TBATS,fitted
+Rajasthan,TBATS,fitted
+Sikkim,TBATS,fitted
+Tamil Nadu,TBATS,fitted
+Telangana,TBATS,fitted
+The Dadra And Nagar Haveli And Daman And Diu,TBATS,fitted
+Tripura,TBATS,fitted
+Uttar Pradesh,TBATS,fitted
+Uttarakhand,TBATS,fitted
+West Bengal,TBATS,fitted

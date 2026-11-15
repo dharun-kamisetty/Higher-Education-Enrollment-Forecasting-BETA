@@ -1,0 +1,1051 @@
+State,Year,Indicator,Forecast_Value,Method,Historical_R2
+Andaman And Nicobar Islands,2020,teachers,442.0000000000001,linear_trend,0.7099688610892513
+Andaman And Nicobar Islands,2021,teachers,465.107142857143,linear_trend,0.7099688610892513
+Andaman And Nicobar Islands,2022,teachers,488.2142857142859,linear_trend,0.7099688610892513
+Andaman And Nicobar Islands,2023,teachers,511.3214285714288,linear_trend,0.7099688610892513
+Andaman And Nicobar Islands,2024,teachers,534.4285714285717,linear_trend,0.7099688610892513
+Andaman And Nicobar Islands,2020,colleges,8.285714285714283,linear_trend,0.7999999999999998
+Andaman And Nicobar Islands,2021,colleges,8.57142857142857,linear_trend,0.7999999999999998
+Andaman And Nicobar Islands,2022,colleges,8.857142857142854,linear_trend,0.7999999999999998
+Andaman And Nicobar Islands,2023,colleges,9.14285714285714,linear_trend,0.7999999999999998
+Andaman And Nicobar Islands,2024,colleges,9.428571428571427,linear_trend,0.7999999999999998
+Andaman And Nicobar Islands,2020,universities,,no_historical_data,
+Andaman And Nicobar Islands,2021,universities,,no_historical_data,
+Andaman And Nicobar Islands,2022,universities,,no_historical_data,
+Andaman And Nicobar Islands,2023,universities,,no_historical_data,
+Andaman And Nicobar Islands,2024,universities,,no_historical_data,
+Andaman And Nicobar Islands,2020,stand_alone_institutions,1.0566037735849036,linear_trend_clipped,0.7641509433962264
+Andaman And Nicobar Islands,2021,stand_alone_institutions,0.547169811320753,linear_trend_clipped,0.7641509433962264
+Andaman And Nicobar Islands,2022,stand_alone_institutions,0.03773584905660243,linear_trend_clipped,0.7641509433962264
+Andaman And Nicobar Islands,2023,stand_alone_institutions,0.0,linear_trend_clipped,0.7641509433962264
+Andaman And Nicobar Islands,2024,stand_alone_institutions,0.0,linear_trend_clipped,0.7641509433962264
+Andaman And Nicobar Islands,2020,foreign_students,3.0,last_observed_value_fallback,
+Andaman And Nicobar Islands,2021,foreign_students,3.0,last_observed_value_fallback,
+Andaman And Nicobar Islands,2022,foreign_students,3.0,last_observed_value_fallback,
+Andaman And Nicobar Islands,2023,foreign_students,3.0,last_observed_value_fallback,
+Andaman And Nicobar Islands,2024,foreign_students,3.0,last_observed_value_fallback,
+Andaman And Nicobar Islands,2020,university_enrolment,3311.142857142855,linear_trend,0.6942004861782485
+Andaman And Nicobar Islands,2021,university_enrolment,2942.214285714284,linear_trend,0.6942004861782485
+Andaman And Nicobar Islands,2022,university_enrolment,2573.285714285713,linear_trend,0.6942004861782485
+Andaman And Nicobar Islands,2023,university_enrolment,2204.3571428571413,linear_trend,0.6942004861782485
+Andaman And Nicobar Islands,2024,university_enrolment,1835.4285714285702,linear_trend,0.6942004861782485
+Andhra Pradesh,2020,teachers,96657.00000000003,linear_trend,0.09302914782839145
+Andhra Pradesh,2021,teachers,95882.46428571432,linear_trend,0.09302914782839145
+Andhra Pradesh,2022,teachers,95107.92857142862,linear_trend,0.09302914782839145
+Andhra Pradesh,2023,teachers,94333.39285714291,linear_trend,0.09302914782839145
+Andhra Pradesh,2024,teachers,93558.85714285722,linear_trend,0.09302914782839145
+Andhra Pradesh,2020,colleges,2733.7142857142844,linear_trend,0.46491111524460027
+Andhra Pradesh,2021,colleges,2756.8571428571413,linear_trend,0.46491111524460027
+Andhra Pradesh,2022,colleges,2779.9999999999986,linear_trend,0.46491111524460027
+Andhra Pradesh,2023,colleges,2803.1428571428555,linear_trend,0.46491111524460027
+Andhra Pradesh,2024,colleges,2826.285714285713,linear_trend,0.46491111524460027
+Andhra Pradesh,2020,universities,43.71428571428571,linear_trend,0.9102393617021277
+Andhra Pradesh,2021,universities,46.35714285714285,linear_trend,0.9102393617021277
+Andhra Pradesh,2022,universities,49.0,linear_trend,0.9102393617021277
+Andhra Pradesh,2023,universities,51.64285714285714,linear_trend,0.9102393617021277
+Andhra Pradesh,2024,universities,54.285714285714285,linear_trend,0.9102393617021277
+Andhra Pradesh,2020,stand_alone_institutions,,no_historical_data,
+Andhra Pradesh,2021,stand_alone_institutions,,no_historical_data,
+Andhra Pradesh,2022,stand_alone_institutions,,no_historical_data,
+Andhra Pradesh,2023,stand_alone_institutions,,no_historical_data,
+Andhra Pradesh,2024,stand_alone_institutions,,no_historical_data,
+Andhra Pradesh,2020,foreign_students,2559.4285714285716,linear_trend,0.6393423564753892
+Andhra Pradesh,2021,foreign_students,2757.6785714285716,linear_trend,0.6393423564753892
+Andhra Pradesh,2022,foreign_students,2955.9285714285716,linear_trend,0.6393423564753892
+Andhra Pradesh,2023,foreign_students,3154.1785714285716,linear_trend,0.6393423564753892
+Andhra Pradesh,2024,foreign_students,3352.4285714285716,linear_trend,0.6393423564753892
+Andhra Pradesh,2020,university_enrolment,314792.14285714284,linear_trend,0.2882703442916388
+Andhra Pradesh,2021,university_enrolment,298239.96428571426,linear_trend,0.2882703442916388
+Andhra Pradesh,2022,university_enrolment,281687.7857142857,linear_trend,0.2882703442916388
+Andhra Pradesh,2023,university_enrolment,265135.60714285716,linear_trend,0.2882703442916388
+Andhra Pradesh,2024,university_enrolment,248583.42857142858,linear_trend,0.2882703442916388
+Arunachal Pradesh,2020,teachers,1828.7142857142853,linear_trend,0.7077060578874461
+Arunachal Pradesh,2021,teachers,1973.9642857142853,linear_trend,0.7077060578874461
+Arunachal Pradesh,2022,teachers,2119.2142857142853,linear_trend,0.7077060578874461
+Arunachal Pradesh,2023,teachers,2264.4642857142853,linear_trend,0.7077060578874461
+Arunachal Pradesh,2024,teachers,2409.7142857142853,linear_trend,0.7077060578874461
+Arunachal Pradesh,2020,colleges,39.857142857142854,linear_trend,0.8809185606060607
+Arunachal Pradesh,2021,colleges,42.035714285714285,linear_trend,0.8809185606060607
+Arunachal Pradesh,2022,colleges,44.214285714285715,linear_trend,0.8809185606060607
+Arunachal Pradesh,2023,colleges,46.39285714285714,linear_trend,0.8809185606060607
+Arunachal Pradesh,2024,colleges,48.57142857142857,linear_trend,0.8809185606060607
+Arunachal Pradesh,2020,universities,10.714285714285714,linear_trend,0.8802083333333333
+Arunachal Pradesh,2021,universities,11.178571428571429,linear_trend,0.8802083333333333
+Arunachal Pradesh,2022,universities,11.642857142857142,linear_trend,0.8802083333333333
+Arunachal Pradesh,2023,universities,12.107142857142858,linear_trend,0.8802083333333333
+Arunachal Pradesh,2024,universities,12.571428571428573,linear_trend,0.8802083333333333
+Arunachal Pradesh,2020,stand_alone_institutions,13.285714285714286,linear_trend,0.030821917808218857
+Arunachal Pradesh,2021,stand_alone_institutions,13.5,linear_trend,0.030821917808218857
+Arunachal Pradesh,2022,stand_alone_institutions,13.714285714285715,linear_trend,0.030821917808218857
+Arunachal Pradesh,2023,stand_alone_institutions,13.92857142857143,linear_trend,0.030821917808218857
+Arunachal Pradesh,2024,stand_alone_institutions,14.142857142857146,linear_trend,0.030821917808218857
+Arunachal Pradesh,2020,foreign_students,5.0,last_observed_value_fallback,0.75
+Arunachal Pradesh,2021,foreign_students,5.0,last_observed_value_fallback,0.75
+Arunachal Pradesh,2022,foreign_students,5.0,last_observed_value_fallback,0.75
+Arunachal Pradesh,2023,foreign_students,5.0,last_observed_value_fallback,0.75
+Arunachal Pradesh,2024,foreign_students,5.0,last_observed_value_fallback,0.75
+Arunachal Pradesh,2020,university_enrolment,34765.857142857145,linear_trend,0.9090946548593495
+Arunachal Pradesh,2021,university_enrolment,37906.07142857143,linear_trend,0.9090946548593495
+Arunachal Pradesh,2022,university_enrolment,41046.28571428572,linear_trend,0.9090946548593495
+Arunachal Pradesh,2023,university_enrolment,44186.5,linear_trend,0.9090946548593495
+Arunachal Pradesh,2024,university_enrolment,47326.71428571429,linear_trend,0.9090946548593495
+Assam,2020,teachers,22728.285714285717,linear_trend,0.23419285672962986
+Assam,2021,teachers,23019.14285714286,linear_trend,0.23419285672962986
+Assam,2022,teachers,23310.000000000004,linear_trend,0.23419285672962986
+Assam,2023,teachers,23600.85714285715,linear_trend,0.23419285672962986
+Assam,2024,teachers,23891.714285714294,linear_trend,0.23419285672962986
+Assam,2020,colleges,545.5714285714287,linear_trend,0.08253998476770574
+Assam,2021,colleges,547.3928571428572,linear_trend,0.08253998476770574
+Assam,2022,colleges,549.2142857142858,linear_trend,0.08253998476770574
+Assam,2023,colleges,551.0357142857143,linear_trend,0.08253998476770574
+Assam,2024,colleges,552.857142857143,linear_trend,0.08253998476770574
+Assam,2020,universities,25.428571428571427,linear_trend,0.8272058823529409
+Assam,2021,universities,26.5,linear_trend,0.8272058823529409
+Assam,2022,universities,27.57142857142857,linear_trend,0.8272058823529409
+Assam,2023,universities,28.642857142857142,linear_trend,0.8272058823529409
+Assam,2024,universities,29.714285714285715,linear_trend,0.8272058823529409
+Assam,2020,stand_alone_institutions,,no_historical_data,
+Assam,2021,stand_alone_institutions,,no_historical_data,
+Assam,2022,stand_alone_institutions,,no_historical_data,
+Assam,2023,stand_alone_institutions,,no_historical_data,
+Assam,2024,stand_alone_institutions,,no_historical_data,
+Assam,2020,foreign_students,334.2857142857143,linear_trend,0.5138976961705419
+Assam,2021,foreign_students,367.82142857142856,linear_trend,0.5138976961705419
+Assam,2022,foreign_students,401.35714285714283,linear_trend,0.5138976961705419
+Assam,2023,foreign_students,434.8928571428571,linear_trend,0.5138976961705419
+Assam,2024,foreign_students,468.42857142857144,linear_trend,0.5138976961705419
+Assam,2020,university_enrolment,133214.71428571423,linear_trend,0.009325388068161522
+Assam,2021,university_enrolment,132095.71428571423,linear_trend,0.009325388068161522
+Assam,2022,university_enrolment,130976.71428571422,linear_trend,0.009325388068161522
+Assam,2023,university_enrolment,129857.71428571422,linear_trend,0.009325388068161522
+Assam,2024,university_enrolment,128738.7142857142,linear_trend,0.009325388068161522
+Bihar,2020,teachers,26259.999999999996,linear_trend,0.003801256009823173
+Bihar,2021,teachers,26164.678571428565,linear_trend,0.003801256009823173
+Bihar,2022,teachers,26069.357142857138,linear_trend,0.003801256009823173
+Bihar,2023,teachers,25974.03571428571,linear_trend,0.003801256009823173
+Bihar,2024,teachers,25878.71428571428,linear_trend,0.003801256009823173
+Bihar,2020,colleges,881.7142857142858,linear_trend,0.9073265903373208
+Bihar,2021,colleges,908.5714285714287,linear_trend,0.9073265903373208
+Bihar,2022,colleges,935.4285714285716,linear_trend,0.9073265903373208
+Bihar,2023,colleges,962.2857142857144,linear_trend,0.9073265903373208
+Bihar,2024,colleges,989.1428571428573,linear_trend,0.9073265903373208
+Bihar,2020,universities,35.14285714285714,linear_trend,0.7800859598853868
+Bihar,2021,universities,37.5,linear_trend,0.7800859598853868
+Bihar,2022,universities,39.857142857142854,linear_trend,0.7800859598853868
+Bihar,2023,universities,42.21428571428571,linear_trend,0.7800859598853868
+Bihar,2024,universities,44.57142857142857,linear_trend,0.7800859598853868
+Bihar,2020,stand_alone_institutions,157.4285714285714,linear_trend,0.006097560975609206
+Bihar,2021,stand_alone_institutions,157.85714285714283,linear_trend,0.006097560975609206
+Bihar,2022,stand_alone_institutions,158.28571428571425,linear_trend,0.006097560975609206
+Bihar,2023,stand_alone_institutions,158.7142857142857,linear_trend,0.006097560975609206
+Bihar,2024,stand_alone_institutions,159.1428571428571,linear_trend,0.006097560975609206
+Bihar,2020,foreign_students,181.42857142857144,linear_trend,0.5485394437642119
+Bihar,2021,foreign_students,157.42857142857147,linear_trend,0.5485394437642119
+Bihar,2022,foreign_students,133.4285714285715,linear_trend,0.5485394437642119
+Bihar,2023,foreign_students,109.42857142857153,linear_trend,0.5485394437642119
+Bihar,2024,foreign_students,85.42857142857156,linear_trend,0.5485394437642119
+Bihar,2020,university_enrolment,215917.99999999994,linear_trend,0.5546594074848352
+Bihar,2021,university_enrolment,222022.35714285707,linear_trend,0.5546594074848352
+Bihar,2022,university_enrolment,228126.71428571423,linear_trend,0.5546594074848352
+Bihar,2023,university_enrolment,234231.07142857136,linear_trend,0.5546594074848352
+Bihar,2024,university_enrolment,240335.42857142852,linear_trend,0.5546594074848352
+Chandigarh,2020,teachers,3719.571428571429,linear_trend,0.8416372761971989
+Chandigarh,2021,teachers,3820.7857142857147,linear_trend,0.8416372761971989
+Chandigarh,2022,teachers,3922.0000000000005,linear_trend,0.8416372761971989
+Chandigarh,2023,teachers,4023.2142857142862,linear_trend,0.8416372761971989
+Chandigarh,2024,teachers,4124.428571428572,linear_trend,0.8416372761971989
+Chandigarh,2020,colleges,24.142857142857135,linear_trend,0.6250000000000001
+Chandigarh,2021,colleges,23.785714285714278,linear_trend,0.6250000000000001
+Chandigarh,2022,colleges,23.42857142857142,linear_trend,0.6250000000000001
+Chandigarh,2023,colleges,23.071428571428562,linear_trend,0.6250000000000001
+Chandigarh,2024,colleges,22.7142857142857,linear_trend,0.6250000000000001
+Chandigarh,2020,universities,2.9999999999999987,linear_trend,
+Chandigarh,2021,universities,2.9999999999999987,linear_trend,
+Chandigarh,2022,universities,2.9999999999999987,linear_trend,
+Chandigarh,2023,universities,2.9999999999999987,linear_trend,
+Chandigarh,2024,universities,2.9999999999999987,linear_trend,
+Chandigarh,2020,stand_alone_institutions,8.428571428571425,linear_trend,0.16666666666666607
+Chandigarh,2021,stand_alone_institutions,8.642857142857139,linear_trend,0.16666666666666607
+Chandigarh,2022,stand_alone_institutions,8.857142857142854,linear_trend,0.16666666666666607
+Chandigarh,2023,stand_alone_institutions,9.071428571428568,linear_trend,0.16666666666666607
+Chandigarh,2024,stand_alone_institutions,9.285714285714283,linear_trend,0.16666666666666607
+Chandigarh,2020,foreign_students,421.2857142857141,linear_trend,0.20717386021385442
+Chandigarh,2021,foreign_students,398.2499999999999,linear_trend,0.20717386021385442
+Chandigarh,2022,foreign_students,375.21428571428555,linear_trend,0.20717386021385442
+Chandigarh,2023,foreign_students,352.17857142857133,linear_trend,0.20717386021385442
+Chandigarh,2024,foreign_students,329.14285714285705,linear_trend,0.20717386021385442
+Chandigarh,2020,university_enrolment,51458.42857142857,linear_trend,0.20427971230043362
+Chandigarh,2021,university_enrolment,52018.142857142855,linear_trend,0.20427971230043362
+Chandigarh,2022,university_enrolment,52577.857142857145,linear_trend,0.20427971230043362
+Chandigarh,2023,university_enrolment,53137.571428571435,linear_trend,0.20427971230043362
+Chandigarh,2024,university_enrolment,53697.285714285725,linear_trend,0.20427971230043362
+Chhattisgarh,2020,teachers,21849.999999999996,linear_trend,0.6292910700545207
+Chhattisgarh,2021,teachers,22403.14285714285,linear_trend,0.6292910700545207
+Chhattisgarh,2022,teachers,22956.28571428571,linear_trend,0.6292910700545207
+Chhattisgarh,2023,teachers,23509.428571428565,linear_trend,0.6292910700545207
+Chhattisgarh,2024,teachers,24062.571428571424,linear_trend,0.6292910700545207
+Chhattisgarh,2020,colleges,811.857142857143,linear_trend,0.9380349832526982
+Chhattisgarh,2021,colleges,832.1428571428573,linear_trend,0.9380349832526982
+Chhattisgarh,2022,colleges,852.4285714285717,linear_trend,0.9380349832526982
+Chhattisgarh,2023,colleges,872.714285714286,linear_trend,0.9380349832526982
+Chhattisgarh,2024,colleges,893.0000000000003,linear_trend,0.9380349832526982
+Chhattisgarh,2020,universities,29.142857142857146,linear_trend,0.89546783625731
+Chhattisgarh,2021,universities,30.392857142857146,linear_trend,0.89546783625731
+Chhattisgarh,2022,universities,31.642857142857146,linear_trend,0.89546783625731
+Chhattisgarh,2023,universities,32.892857142857146,linear_trend,0.89546783625731
+Chhattisgarh,2024,universities,34.14285714285715,linear_trend,0.89546783625731
+Chhattisgarh,2020,stand_alone_institutions,68.85714285714288,linear_trend,0.5785554131966693
+Chhattisgarh,2021,stand_alone_institutions,65.8214285714286,linear_trend,0.5785554131966693
+Chhattisgarh,2022,stand_alone_institutions,62.78571428571431,linear_trend,0.5785554131966693
+Chhattisgarh,2023,stand_alone_institutions,59.750000000000036,linear_trend,0.5785554131966693
+Chhattisgarh,2024,stand_alone_institutions,56.71428571428576,linear_trend,0.5785554131966693
+Chhattisgarh,2020,foreign_students,139.28571428571425,linear_trend,0.07107793928686135
+Chhattisgarh,2021,foreign_students,143.53571428571425,linear_trend,0.07107793928686135
+Chhattisgarh,2022,foreign_students,147.78571428571425,linear_trend,0.07107793928686135
+Chhattisgarh,2023,foreign_students,152.03571428571425,linear_trend,0.07107793928686135
+Chhattisgarh,2024,foreign_students,156.28571428571425,linear_trend,0.07107793928686135
+Chhattisgarh,2020,university_enrolment,162086.14285714284,linear_trend,0.6515582813678014
+Chhattisgarh,2021,university_enrolment,173378.71428571426,linear_trend,0.6515582813678014
+Chhattisgarh,2022,university_enrolment,184671.28571428568,linear_trend,0.6515582813678014
+Chhattisgarh,2023,university_enrolment,195963.85714285713,linear_trend,0.6515582813678014
+Chhattisgarh,2024,university_enrolment,207256.42857142855,linear_trend,0.6515582813678014
+Delhi,2020,teachers,20528.14285714285,linear_trend,0.1569618623451805
+Delhi,2021,teachers,20798.14285714285,linear_trend,0.1569618623451805
+Delhi,2022,teachers,21068.14285714285,linear_trend,0.1569618623451805
+Delhi,2023,teachers,21338.14285714285,linear_trend,0.1569618623451805
+Delhi,2024,teachers,21608.14285714285,linear_trend,0.1569618623451805
+Delhi,2020,colleges,174.8571428571429,linear_trend,0.6072874493927123
+Delhi,2021,colleges,172.71428571428575,linear_trend,0.6072874493927123
+Delhi,2022,colleges,170.57142857142864,linear_trend,0.6072874493927123
+Delhi,2023,colleges,168.4285714285715,linear_trend,0.6072874493927123
+Delhi,2024,colleges,166.2857142857144,linear_trend,0.6072874493927123
+Delhi,2020,universities,27.999999999999993,linear_trend,0.8437499999999996
+Delhi,2021,universities,28.321428571428562,linear_trend,0.8437499999999996
+Delhi,2022,universities,28.642857142857135,linear_trend,0.8437499999999996
+Delhi,2023,universities,28.964285714285705,linear_trend,0.8437499999999996
+Delhi,2024,universities,29.285714285714274,linear_trend,0.8437499999999996
+Delhi,2020,stand_alone_institutions,101.57142857142856,linear_trend,0.5699881376037963
+Delhi,2021,stand_alone_institutions,97.14285714285712,linear_trend,0.5699881376037963
+Delhi,2022,stand_alone_institutions,92.7142857142857,linear_trend,0.5699881376037963
+Delhi,2023,stand_alone_institutions,88.28571428571428,linear_trend,0.5699881376037963
+Delhi,2024,stand_alone_institutions,83.85714285714286,linear_trend,0.5699881376037963
+Delhi,2020,foreign_students,2554.2857142857138,linear_trend,0.43943165396866224
+Delhi,2021,foreign_students,2657.5714285714284,linear_trend,0.43943165396866224
+Delhi,2022,foreign_students,2760.857142857143,linear_trend,0.43943165396866224
+Delhi,2023,foreign_students,2864.1428571428573,linear_trend,0.43943165396866224
+Delhi,2024,foreign_students,2967.4285714285716,linear_trend,0.43943165396866224
+Delhi,2020,university_enrolment,,no_historical_data,
+Delhi,2021,university_enrolment,,no_historical_data,
+Delhi,2022,university_enrolment,,no_historical_data,
+Delhi,2023,university_enrolment,,no_historical_data,
+Delhi,2024,university_enrolment,,no_historical_data,
+Goa,2020,teachers,3542.2857142857138,linear_trend,0.7967447991216068
+Goa,2021,teachers,3716.607142857142,linear_trend,0.7967447991216068
+Goa,2022,teachers,3890.928571428571,linear_trend,0.7967447991216068
+Goa,2023,teachers,4065.25,linear_trend,0.7967447991216068
+Goa,2024,teachers,4239.571428571428,linear_trend,0.7967447991216068
+Goa,2020,colleges,57.714285714285715,linear_trend,0.6428571428571423
+Goa,2021,colleges,58.142857142857146,linear_trend,0.6428571428571423
+Goa,2022,colleges,58.57142857142858,linear_trend,0.6428571428571423
+Goa,2023,colleges,59.000000000000014,linear_trend,0.6428571428571423
+Goa,2024,colleges,59.428571428571445,linear_trend,0.6428571428571423
+Goa,2020,universities,3.2857142857142847,linear_trend,0.7499999999999998
+Goa,2021,universities,3.499999999999999,linear_trend,0.7499999999999998
+Goa,2022,universities,3.7142857142857135,linear_trend,0.7499999999999998
+Goa,2023,universities,3.928571428571428,linear_trend,0.7499999999999998
+Goa,2024,universities,4.142857142857142,linear_trend,0.7499999999999998
+Goa,2020,stand_alone_institutions,11.571428571428564,linear_trend,1.1102230246251565e-16
+Goa,2021,stand_alone_institutions,11.571428571428564,linear_trend,1.1102230246251565e-16
+Goa,2022,stand_alone_institutions,11.571428571428564,linear_trend,1.1102230246251565e-16
+Goa,2023,stand_alone_institutions,11.571428571428564,linear_trend,1.1102230246251565e-16
+Goa,2024,stand_alone_institutions,11.571428571428564,linear_trend,1.1102230246251565e-16
+Goa,2020,foreign_students,319.8571428571429,linear_trend,0.750293781509507
+Goa,2021,foreign_students,348.67857142857144,linear_trend,0.750293781509507
+Goa,2022,foreign_students,377.50000000000006,linear_trend,0.750293781509507
+Goa,2023,foreign_students,406.3214285714286,linear_trend,0.750293781509507
+Goa,2024,foreign_students,435.14285714285717,linear_trend,0.750293781509507
+Goa,2020,university_enrolment,7477.285714285712,linear_trend,0.940618913440294
+Goa,2021,university_enrolment,7117.285714285712,linear_trend,0.940618913440294
+Goa,2022,university_enrolment,6757.285714285712,linear_trend,0.940618913440294
+Goa,2023,university_enrolment,6397.285714285712,linear_trend,0.940618913440294
+Goa,2024,university_enrolment,6037.285714285712,linear_trend,0.940618913440294
+Gujarat,2020,teachers,56765.14285714285,linear_trend,0.37922824358745655
+Gujarat,2021,teachers,57588.85714285714,linear_trend,0.37922824358745655
+Gujarat,2022,teachers,58412.57142857142,linear_trend,0.37922824358745655
+Gujarat,2023,teachers,59236.28571428571,linear_trend,0.37922824358745655
+Gujarat,2024,teachers,60059.99999999999,linear_trend,0.37922824358745655
+Gujarat,2020,colleges,2346.714285714286,linear_trend,0.9792210611713219
+Gujarat,2021,colleges,2405.857142857143,linear_trend,0.9792210611713219
+Gujarat,2022,colleges,2465.0,linear_trend,0.9792210611713219
+Gujarat,2023,colleges,2524.1428571428573,linear_trend,0.9792210611713219
+Gujarat,2024,colleges,2583.2857142857147,linear_trend,0.9792210611713219
+Gujarat,2020,universities,82.14285714285714,linear_trend,0.9903169014084507
+Gujarat,2021,universities,87.5,linear_trend,0.9903169014084507
+Gujarat,2022,universities,92.85714285714286,linear_trend,0.9903169014084507
+Gujarat,2023,universities,98.21428571428572,linear_trend,0.9903169014084507
+Gujarat,2024,universities,103.57142857142858,linear_trend,0.9903169014084507
+Gujarat,2020,stand_alone_institutions,301.2857142857143,linear_trend,0.19261323215556025
+Gujarat,2021,stand_alone_institutions,297.2142857142857,linear_trend,0.19261323215556025
+Gujarat,2022,stand_alone_institutions,293.14285714285717,linear_trend,0.19261323215556025
+Gujarat,2023,stand_alone_institutions,289.0714285714286,linear_trend,0.19261323215556025
+Gujarat,2024,stand_alone_institutions,285.0,linear_trend,0.19261323215556025
+Gujarat,2020,foreign_students,2577.285714285714,linear_trend,0.987218524054105
+Gujarat,2021,foreign_students,2873.1785714285716,linear_trend,0.987218524054105
+Gujarat,2022,foreign_students,3169.071428571429,linear_trend,0.987218524054105
+Gujarat,2023,foreign_students,3464.964285714286,linear_trend,0.987218524054105
+Gujarat,2024,foreign_students,3760.857142857143,linear_trend,0.987218524054105
+Gujarat,2020,university_enrolment,345615.4285714285,linear_trend,0.7714714720611365
+Gujarat,2021,university_enrolment,361472.0714285714,linear_trend,0.7714714720611365
+Gujarat,2022,university_enrolment,377328.7142857143,linear_trend,0.7714714720611365
+Gujarat,2023,university_enrolment,393185.35714285716,linear_trend,0.7714714720611365
+Gujarat,2024,university_enrolment,409042.0,linear_trend,0.7714714720611365
+Haryana,2020,teachers,30164.2857142857,linear_trend,0.5732990629576251
+Haryana,2021,teachers,27598.607142857127,linear_trend,0.5732990629576251
+Haryana,2022,teachers,25032.928571428554,linear_trend,0.5732990629576251
+Haryana,2023,teachers,22467.24999999998,linear_trend,0.5732990629576251
+Haryana,2024,teachers,19901.57142857141,linear_trend,0.5732990629576251
+Haryana,2020,colleges,1033.7142857142858,linear_trend,0.16832408923204567
+Haryana,2021,colleges,1021.857142857143,linear_trend,0.16832408923204567
+Haryana,2022,colleges,1010.0000000000002,linear_trend,0.16832408923204567
+Haryana,2023,colleges,998.1428571428573,linear_trend,0.16832408923204567
+Haryana,2024,colleges,986.2857142857146,linear_trend,0.16832408923204567
+Haryana,2020,universities,53.71428571428571,linear_trend,0.8896001796945192
+Haryana,2021,universities,56.89285714285714,linear_trend,0.8896001796945192
+Haryana,2022,universities,60.07142857142856,linear_trend,0.8896001796945192
+Haryana,2023,universities,63.249999999999986,linear_trend,0.8896001796945192
+Haryana,2024,universities,66.42857142857142,linear_trend,0.8896001796945192
+Haryana,2020,stand_alone_institutions,205.00000000000003,linear_trend,0.5946264581782079
+Haryana,2021,stand_alone_institutions,186.50000000000003,linear_trend,0.5946264581782079
+Haryana,2022,stand_alone_institutions,168.00000000000003,linear_trend,0.5946264581782079
+Haryana,2023,stand_alone_institutions,149.50000000000006,linear_trend,0.5946264581782079
+Haryana,2024,stand_alone_institutions,131.00000000000006,linear_trend,0.5946264581782079
+Haryana,2020,foreign_students,,no_historical_data,
+Haryana,2021,foreign_students,,no_historical_data,
+Haryana,2022,foreign_students,,no_historical_data,
+Haryana,2023,foreign_students,,no_historical_data,
+Haryana,2024,foreign_students,,no_historical_data,
+Haryana,2020,university_enrolment,323069.85714285716,linear_trend,0.7359417392760919
+Haryana,2021,university_enrolment,355249.6785714286,linear_trend,0.7359417392760919
+Haryana,2022,university_enrolment,387429.5,linear_trend,0.7359417392760919
+Haryana,2023,university_enrolment,419609.3214285715,linear_trend,0.7359417392760919
+Haryana,2024,university_enrolment,451789.14285714284,linear_trend,0.7359417392760919
+Himachal Pradesh,2020,teachers,10398.714285714286,linear_trend,0.009993995578194026
+Himachal Pradesh,2021,teachers,10378.642857142859,linear_trend,0.009993995578194026
+Himachal Pradesh,2022,teachers,10358.57142857143,linear_trend,0.009993995578194026
+Himachal Pradesh,2023,teachers,10338.500000000002,linear_trend,0.009993995578194026
+Himachal Pradesh,2024,teachers,10318.428571428572,linear_trend,0.009993995578194026
+Himachal Pradesh,2020,colleges,357.0,linear_trend,0.235313630880579
+Himachal Pradesh,2021,colleges,362.4642857142858,linear_trend,0.235313630880579
+Himachal Pradesh,2022,colleges,367.9285714285715,linear_trend,0.235313630880579
+Himachal Pradesh,2023,colleges,373.3928571428572,linear_trend,0.235313630880579
+Himachal Pradesh,2024,colleges,378.85714285714295,linear_trend,0.235313630880579
+Himachal Pradesh,2020,universities,27.285714285714278,linear_trend,0.9142857142857143
+Himachal Pradesh,2021,universities,27.85714285714285,linear_trend,0.9142857142857143
+Himachal Pradesh,2022,universities,28.42857142857142,linear_trend,0.9142857142857143
+Himachal Pradesh,2023,universities,28.999999999999993,linear_trend,0.9142857142857143
+Himachal Pradesh,2024,universities,29.571428571428562,linear_trend,0.9142857142857143
+Himachal Pradesh,2020,stand_alone_institutions,79.99999999999999,linear_trend,0.20597322348094815
+Himachal Pradesh,2021,stand_alone_institutions,78.57142857142856,linear_trend,0.20597322348094815
+Himachal Pradesh,2022,stand_alone_institutions,77.14285714285714,linear_trend,0.20597322348094815
+Himachal Pradesh,2023,stand_alone_institutions,75.71428571428571,linear_trend,0.20597322348094815
+Himachal Pradesh,2024,stand_alone_institutions,74.28571428571428,linear_trend,0.20597322348094815
+Himachal Pradesh,2020,foreign_students,1240.1428571428573,linear_trend,0.9049860179963528
+Himachal Pradesh,2021,foreign_students,1398.1785714285716,linear_trend,0.9049860179963528
+Himachal Pradesh,2022,foreign_students,1556.2142857142858,linear_trend,0.9049860179963528
+Himachal Pradesh,2023,foreign_students,1714.2500000000002,linear_trend,0.9049860179963528
+Himachal Pradesh,2024,foreign_students,1872.2857142857144,linear_trend,0.9049860179963528
+Himachal Pradesh,2020,university_enrolment,91244.85714285713,linear_trend,0.9227058535865532
+Himachal Pradesh,2021,university_enrolment,94876.64285714284,linear_trend,0.9227058535865532
+Himachal Pradesh,2022,university_enrolment,98508.42857142855,linear_trend,0.9227058535865532
+Himachal Pradesh,2023,university_enrolment,102140.21428571428,linear_trend,0.9227058535865532
+Himachal Pradesh,2024,university_enrolment,105771.99999999999,linear_trend,0.9227058535865532
+Jammu And Kashmir,2020,teachers,10695.857142857141,linear_trend,0.025394009138951734
+Jammu And Kashmir,2021,teachers,10757.92857142857,linear_trend,0.025394009138951734
+Jammu And Kashmir,2022,teachers,10820.0,linear_trend,0.025394009138951734
+Jammu And Kashmir,2023,teachers,10882.07142857143,linear_trend,0.025394009138951734
+Jammu And Kashmir,2024,teachers,10944.142857142859,linear_trend,0.025394009138951734
+Jammu And Kashmir,2020,colleges,296.2857142857142,linear_trend,0.47567459410015855
+Jammu And Kashmir,2021,colleges,291.6785714285714,linear_trend,0.47567459410015855
+Jammu And Kashmir,2022,colleges,287.07142857142856,linear_trend,0.47567459410015855
+Jammu And Kashmir,2023,colleges,282.46428571428567,linear_trend,0.47567459410015855
+Jammu And Kashmir,2024,colleges,277.85714285714283,linear_trend,0.47567459410015855
+Jammu And Kashmir,2020,universities,16.0,linear_trend,0.8816666666666666
+Jammu And Kashmir,2021,universities,16.82142857142857,linear_trend,0.8816666666666666
+Jammu And Kashmir,2022,universities,17.642857142857142,linear_trend,0.8816666666666666
+Jammu And Kashmir,2023,universities,18.464285714285715,linear_trend,0.8816666666666666
+Jammu And Kashmir,2024,universities,19.285714285714285,linear_trend,0.8816666666666666
+Jammu And Kashmir,2020,stand_alone_institutions,118.42857142857144,linear_trend,0.8541808970856103
+Jammu And Kashmir,2021,stand_alone_institutions,127.17857142857144,linear_trend,0.8541808970856103
+Jammu And Kashmir,2022,stand_alone_institutions,135.92857142857144,linear_trend,0.8541808970856103
+Jammu And Kashmir,2023,stand_alone_institutions,144.67857142857144,linear_trend,0.8541808970856103
+Jammu And Kashmir,2024,stand_alone_institutions,153.42857142857144,linear_trend,0.8541808970856103
+Jammu And Kashmir,2020,foreign_students,17.28571428571429,linear_trend,0.5268924302788844
+Jammu And Kashmir,2021,foreign_students,18.92857142857143,linear_trend,0.5268924302788844
+Jammu And Kashmir,2022,foreign_students,20.571428571428573,linear_trend,0.5268924302788844
+Jammu And Kashmir,2023,foreign_students,22.214285714285715,linear_trend,0.5268924302788844
+Jammu And Kashmir,2024,foreign_students,23.857142857142858,linear_trend,0.5268924302788844
+Jammu And Kashmir,2020,university_enrolment,,no_historical_data,
+Jammu And Kashmir,2021,university_enrolment,,no_historical_data,
+Jammu And Kashmir,2022,university_enrolment,,no_historical_data,
+Jammu And Kashmir,2023,university_enrolment,,no_historical_data,
+Jammu And Kashmir,2024,university_enrolment,,no_historical_data,
+Jharkhand,2020,teachers,14040.714285714286,linear_trend,0.9199259969232445
+Jharkhand,2021,teachers,14778.75,linear_trend,0.9199259969232445
+Jharkhand,2022,teachers,15516.785714285716,linear_trend,0.9199259969232445
+Jharkhand,2023,teachers,16254.821428571431,linear_trend,0.9199259969232445
+Jharkhand,2024,teachers,16992.857142857145,linear_trend,0.9199259969232445
+Jharkhand,2020,colleges,326.5714285714286,linear_trend,0.41152263374485654
+Jharkhand,2021,colleges,330.85714285714295,linear_trend,0.41152263374485654
+Jharkhand,2022,colleges,335.1428571428572,linear_trend,0.41152263374485654
+Jharkhand,2023,colleges,339.4285714285715,linear_trend,0.41152263374485654
+Jharkhand,2024,colleges,343.71428571428584,linear_trend,0.41152263374485654
+Jharkhand,2020,universities,32.285714285714285,linear_trend,0.9258720930232558
+Jharkhand,2021,universities,35.535714285714285,linear_trend,0.9258720930232558
+Jharkhand,2022,universities,38.785714285714285,linear_trend,0.9258720930232558
+Jharkhand,2023,universities,42.035714285714285,linear_trend,0.9258720930232558
+Jharkhand,2024,universities,45.285714285714285,linear_trend,0.9258720930232558
+Jharkhand,2020,stand_alone_institutions,79.42857142857142,linear_trend,0.030303030303030054
+Jharkhand,2021,stand_alone_institutions,80.7142857142857,linear_trend,0.030303030303030054
+Jharkhand,2022,stand_alone_institutions,81.99999999999997,linear_trend,0.030303030303030054
+Jharkhand,2023,stand_alone_institutions,83.28571428571426,linear_trend,0.030303030303030054
+Jharkhand,2024,stand_alone_institutions,84.57142857142856,linear_trend,0.030303030303030054
+Jharkhand,2020,foreign_students,56.99999999999997,linear_trend,0.10501061510213405
+Jharkhand,2021,foreign_students,52.678571428571395,linear_trend,0.10501061510213405
+Jharkhand,2022,foreign_students,48.357142857142826,linear_trend,0.10501061510213405
+Jharkhand,2023,foreign_students,44.03571428571425,linear_trend,0.10501061510213405
+Jharkhand,2024,foreign_students,39.71428571428568,linear_trend,0.10501061510213405
+Jharkhand,2020,university_enrolment,168194.71428571426,linear_trend,0.8526074379826285
+Jharkhand,2021,university_enrolment,184873.3928571428,linear_trend,0.8526074379826285
+Jharkhand,2022,university_enrolment,201552.0714285714,linear_trend,0.8526074379826285
+Jharkhand,2023,university_enrolment,218230.74999999994,linear_trend,0.8526074379826285
+Jharkhand,2024,university_enrolment,234909.42857142852,linear_trend,0.8526074379826285
+Karnataka,2020,teachers,133439.85714285713,linear_trend,0.00015141588051437171
+Karnataka,2021,teachers,133490.4642857143,linear_trend,0.00015141588051437171
+Karnataka,2022,teachers,133541.07142857142,linear_trend,0.00015141588051437171
+Karnataka,2023,teachers,133591.67857142858,linear_trend,0.00015141588051437171
+Karnataka,2024,teachers,133642.2857142857,linear_trend,0.00015141588051437171
+Karnataka,2020,colleges,4003.5714285714275,linear_trend,0.7596437232569677
+Karnataka,2021,colleges,4096.607142857142,linear_trend,0.7596437232569677
+Karnataka,2022,colleges,4189.642857142857,linear_trend,0.7596437232569677
+Karnataka,2023,colleges,4282.678571428571,linear_trend,0.7596437232569677
+Karnataka,2024,colleges,4375.714285714285,linear_trend,0.7596437232569677
+Karnataka,2020,universities,72.14285714285714,linear_trend,0.9791806581598388
+Karnataka,2021,universities,76.0,linear_trend,0.9791806581598388
+Karnataka,2022,universities,79.85714285714286,linear_trend,0.9791806581598388
+Karnataka,2023,universities,83.71428571428572,linear_trend,0.9791806581598388
+Karnataka,2024,universities,87.57142857142858,linear_trend,0.9791806581598388
+Karnataka,2020,stand_alone_institutions,1406.2857142857142,linear_trend,0.1782204179007041
+Karnataka,2021,stand_alone_institutions,1367.3571428571427,linear_trend,0.1782204179007041
+Karnataka,2022,stand_alone_institutions,1328.4285714285713,linear_trend,0.1782204179007041
+Karnataka,2023,stand_alone_institutions,1289.5,linear_trend,0.1782204179007041
+Karnataka,2024,stand_alone_institutions,1250.5714285714284,linear_trend,0.1782204179007041
+Karnataka,2020,foreign_students,9480.428571428569,linear_trend,0.8267609634491385
+Karnataka,2021,foreign_students,8721.892857142855,linear_trend,0.8267609634491385
+Karnataka,2022,foreign_students,7963.35714285714,linear_trend,0.8267609634491385
+Karnataka,2023,foreign_students,7204.821428571426,linear_trend,0.8267609634491385
+Karnataka,2024,foreign_students,6446.285714285712,linear_trend,0.8267609634491385
+Karnataka,2020,university_enrolment,289534.2857142857,linear_trend,0.015720206585929986
+Karnataka,2021,university_enrolment,292418.7142857142,linear_trend,0.015720206585929986
+Karnataka,2022,university_enrolment,295303.1428571428,linear_trend,0.015720206585929986
+Karnataka,2023,university_enrolment,298187.57142857136,linear_trend,0.015720206585929986
+Karnataka,2024,university_enrolment,301071.99999999994,linear_trend,0.015720206585929986
+Kerala,2020,teachers,62115.85714285713,linear_trend,0.6324424512708396
+Kerala,2021,teachers,63593.928571428565,linear_trend,0.6324424512708396
+Kerala,2022,teachers,65071.99999999999,linear_trend,0.6324424512708396
+Kerala,2023,teachers,66550.07142857142,linear_trend,0.6324424512708396
+Kerala,2024,teachers,68028.14285714286,linear_trend,0.6324424512708396
+Kerala,2020,colleges,1442.4285714285713,linear_trend,0.8359794991782958
+Kerala,2021,colleges,1477.4285714285713,linear_trend,0.8359794991782958
+Kerala,2022,colleges,1512.4285714285713,linear_trend,0.8359794991782958
+Kerala,2023,colleges,1547.4285714285713,linear_trend,0.8359794991782958
+Kerala,2024,colleges,1582.4285714285713,linear_trend,0.8359794991782958
+Kerala,2020,universities,24.57142857142857,linear_trend,0.9492187499999999
+Kerala,2021,universities,25.535714285714285,linear_trend,0.9492187499999999
+Kerala,2022,universities,26.5,linear_trend,0.9492187499999999
+Kerala,2023,universities,27.46428571428571,linear_trend,0.9492187499999999
+Kerala,2024,universities,28.428571428571427,linear_trend,0.9492187499999999
+Kerala,2020,stand_alone_institutions,391.00000000000006,linear_trend,0.796501429068308
+Kerala,2021,stand_alone_institutions,358.2142857142858,linear_trend,0.796501429068308
+Kerala,2022,stand_alone_institutions,325.4285714285715,linear_trend,0.796501429068308
+Kerala,2023,stand_alone_institutions,292.6428571428572,linear_trend,0.796501429068308
+Kerala,2024,stand_alone_institutions,259.857142857143,linear_trend,0.796501429068308
+Kerala,2020,foreign_students,261.71428571428567,linear_trend,0.5497029136833731
+Kerala,2021,foreign_students,285.46428571428567,linear_trend,0.5497029136833731
+Kerala,2022,foreign_students,309.21428571428567,linear_trend,0.5497029136833731
+Kerala,2023,foreign_students,332.96428571428567,linear_trend,0.5497029136833731
+Kerala,2024,foreign_students,356.71428571428567,linear_trend,0.5497029136833731
+Kerala,2020,university_enrolment,364192.71428571426,linear_trend,0.8249843188468187
+Kerala,2021,university_enrolment,390273.21428571426,linear_trend,0.8249843188468187
+Kerala,2022,university_enrolment,416353.71428571426,linear_trend,0.8249843188468187
+Kerala,2023,university_enrolment,442434.21428571426,linear_trend,0.8249843188468187
+Kerala,2024,university_enrolment,468514.71428571426,linear_trend,0.8249843188468187
+Lakshadweep,2020,teachers,41.85714285714284,linear_trend,0.009363295880149503
+Lakshadweep,2021,teachers,41.499999999999986,linear_trend,0.009363295880149503
+Lakshadweep,2022,teachers,41.142857142857125,linear_trend,0.009363295880149503
+Lakshadweep,2023,teachers,40.78571428571427,linear_trend,0.009363295880149503
+Lakshadweep,2024,teachers,40.42857142857141,linear_trend,0.009363295880149503
+Lakshadweep,2020,colleges,,no_historical_data,
+Lakshadweep,2021,colleges,,no_historical_data,
+Lakshadweep,2022,colleges,,no_historical_data,
+Lakshadweep,2023,colleges,,no_historical_data,
+Lakshadweep,2024,colleges,,no_historical_data,
+Lakshadweep,2020,universities,,no_historical_data,
+Lakshadweep,2021,universities,,no_historical_data,
+Lakshadweep,2022,universities,,no_historical_data,
+Lakshadweep,2023,universities,,no_historical_data,
+Lakshadweep,2024,universities,,no_historical_data,
+Lakshadweep,2020,stand_alone_institutions,,no_historical_data,
+Lakshadweep,2021,stand_alone_institutions,,no_historical_data,
+Lakshadweep,2022,stand_alone_institutions,,no_historical_data,
+Lakshadweep,2023,stand_alone_institutions,,no_historical_data,
+Lakshadweep,2024,stand_alone_institutions,,no_historical_data,
+Lakshadweep,2020,foreign_students,,no_historical_data,
+Lakshadweep,2021,foreign_students,,no_historical_data,
+Lakshadweep,2022,foreign_students,,no_historical_data,
+Lakshadweep,2023,foreign_students,,no_historical_data,
+Lakshadweep,2024,foreign_students,,no_historical_data,
+Lakshadweep,2020,university_enrolment,,no_historical_data,
+Lakshadweep,2021,university_enrolment,,no_historical_data,
+Lakshadweep,2022,university_enrolment,,no_historical_data,
+Lakshadweep,2023,university_enrolment,,no_historical_data,
+Lakshadweep,2024,university_enrolment,,no_historical_data,
+Madhya Pradesh,2020,teachers,57749.0,linear_trend,0.2608245361783561
+Madhya Pradesh,2021,teachers,56187.00000000001,linear_trend,0.2608245361783561
+Madhya Pradesh,2022,teachers,54625.000000000015,linear_trend,0.2608245361783561
+Madhya Pradesh,2023,teachers,53063.000000000015,linear_trend,0.2608245361783561
+Madhya Pradesh,2024,teachers,51501.00000000002,linear_trend,0.2608245361783561
+Madhya Pradesh,2020,colleges,2306.857142857142,linear_trend,0.2513119515357016
+Madhya Pradesh,2021,colleges,2329.5357142857138,linear_trend,0.2513119515357016
+Madhya Pradesh,2022,colleges,2352.2142857142853,linear_trend,0.2513119515357016
+Madhya Pradesh,2023,colleges,2374.8928571428564,linear_trend,0.2513119515357016
+Madhya Pradesh,2024,colleges,2397.571428571428,linear_trend,0.2513119515357016
+Madhya Pradesh,2020,universities,70.28571428571428,linear_trend,0.9219597211463981
+Madhya Pradesh,2021,universities,75.2142857142857,linear_trend,0.9219597211463981
+Madhya Pradesh,2022,universities,80.14285714285714,linear_trend,0.9219597211463981
+Madhya Pradesh,2023,universities,85.07142857142856,linear_trend,0.9219597211463981
+Madhya Pradesh,2024,universities,90.0,linear_trend,0.9219597211463981
+Madhya Pradesh,2020,stand_alone_institutions,342.4285714285713,linear_trend,0.2645974215362379
+Madhya Pradesh,2021,stand_alone_institutions,327.9642857142856,linear_trend,0.2645974215362379
+Madhya Pradesh,2022,stand_alone_institutions,313.4999999999999,linear_trend,0.2645974215362379
+Madhya Pradesh,2023,stand_alone_institutions,299.0357142857142,linear_trend,0.2645974215362379
+Madhya Pradesh,2024,stand_alone_institutions,284.5714285714285,linear_trend,0.2645974215362379
+Madhya Pradesh,2020,foreign_students,779.7142857142858,linear_trend,0.8583245229753517
+Madhya Pradesh,2021,foreign_students,858.6428571428572,linear_trend,0.8583245229753517
+Madhya Pradesh,2022,foreign_students,937.5714285714287,linear_trend,0.8583245229753517
+Madhya Pradesh,2023,foreign_students,1016.5000000000001,linear_trend,0.8583245229753517
+Madhya Pradesh,2024,foreign_students,1095.4285714285716,linear_trend,0.8583245229753517
+Madhya Pradesh,2020,university_enrolment,525617.0,linear_trend,0.15444171475858226
+Madhya Pradesh,2021,university_enrolment,530471.9642857142,linear_trend,0.15444171475858226
+Madhya Pradesh,2022,university_enrolment,535326.9285714285,linear_trend,0.15444171475858226
+Madhya Pradesh,2023,university_enrolment,540181.8928571428,linear_trend,0.15444171475858226
+Madhya Pradesh,2024,university_enrolment,545036.8571428572,linear_trend,0.15444171475858226
+Maharashtra,2020,teachers,155156.0,linear_trend,0.010794358984622332
+Maharashtra,2021,teachers,154824.89285714287,linear_trend,0.010794358984622332
+Maharashtra,2022,teachers,154493.7857142857,linear_trend,0.010794358984622332
+Maharashtra,2023,teachers,154162.67857142858,linear_trend,0.010794358984622332
+Maharashtra,2024,teachers,153831.57142857145,linear_trend,0.010794358984622332
+Maharashtra,2020,colleges,4323.999999999999,linear_trend,0.24140384226036393
+Maharashtra,2021,colleges,4292.607142857142,linear_trend,0.24140384226036393
+Maharashtra,2022,colleges,4261.214285714285,linear_trend,0.24140384226036393
+Maharashtra,2023,colleges,4229.8214285714275,linear_trend,0.24140384226036393
+Maharashtra,2024,colleges,4198.428571428571,linear_trend,0.24140384226036393
+Maharashtra,2020,universities,66.85714285714285,linear_trend,0.8834943371085943
+Maharashtra,2021,universities,70.53571428571428,linear_trend,0.8834943371085943
+Maharashtra,2022,universities,74.21428571428571,linear_trend,0.8834943371085943
+Maharashtra,2023,universities,77.89285714285714,linear_trend,0.8834943371085943
+Maharashtra,2024,universities,81.57142857142856,linear_trend,0.8834943371085943
+Maharashtra,2020,stand_alone_institutions,2040.1428571428569,linear_trend,0.29212391066582966
+Maharashtra,2021,stand_alone_institutions,1965.25,linear_trend,0.29212391066582966
+Maharashtra,2022,stand_alone_institutions,1890.357142857143,linear_trend,0.29212391066582966
+Maharashtra,2023,stand_alone_institutions,1815.464285714286,linear_trend,0.29212391066582966
+Maharashtra,2024,stand_alone_institutions,1740.571428571429,linear_trend,0.29212391066582966
+Maharashtra,2020,foreign_students,4498.428571428572,linear_trend,0.22756670264239165
+Maharashtra,2021,foreign_students,4433.142857142858,linear_trend,0.22756670264239165
+Maharashtra,2022,foreign_students,4367.857142857143,linear_trend,0.22756670264239165
+Maharashtra,2023,foreign_students,4302.571428571429,linear_trend,0.22756670264239165
+Maharashtra,2024,foreign_students,4237.285714285715,linear_trend,0.22756670264239165
+Maharashtra,2020,university_enrolment,1053390.4285714286,linear_trend,0.7865514535027545
+Maharashtra,2021,university_enrolment,1097512.2142857143,linear_trend,0.7865514535027545
+Maharashtra,2022,university_enrolment,1141634.0,linear_trend,0.7865514535027545
+Maharashtra,2023,university_enrolment,1185755.785714286,linear_trend,0.7865514535027545
+Maharashtra,2024,university_enrolment,1229877.5714285716,linear_trend,0.7865514535027545
+Manipur,2020,teachers,4699.285714285714,linear_trend,0.0007360650435357385
+Manipur,2021,teachers,4691.035714285714,linear_trend,0.0007360650435357385
+Manipur,2022,teachers,4682.785714285714,linear_trend,0.0007360650435357385
+Manipur,2023,teachers,4674.535714285714,linear_trend,0.0007360650435357385
+Manipur,2024,teachers,4666.285714285714,linear_trend,0.0007360650435357385
+Manipur,2020,colleges,98.99999999999999,linear_trend,0.723996350364964
+Manipur,2021,colleges,101.46428571428571,linear_trend,0.723996350364964
+Manipur,2022,colleges,103.92857142857142,linear_trend,0.723996350364964
+Manipur,2023,colleges,106.39285714285714,linear_trend,0.723996350364964
+Manipur,2024,colleges,108.85714285714286,linear_trend,0.723996350364964
+Manipur,2020,universities,8.142857142857142,linear_trend,0.8642857142857143
+Manipur,2021,universities,8.928571428571427,linear_trend,0.8642857142857143
+Manipur,2022,universities,9.714285714285714,linear_trend,0.8642857142857143
+Manipur,2023,universities,10.499999999999998,linear_trend,0.8642857142857143
+Manipur,2024,universities,11.285714285714285,linear_trend,0.8642857142857143
+Manipur,2020,stand_alone_institutions,24.142857142857146,linear_trend,0.3548387096774194
+Manipur,2021,stand_alone_institutions,25.71428571428572,linear_trend,0.3548387096774194
+Manipur,2022,stand_alone_institutions,27.285714285714292,linear_trend,0.3548387096774194
+Manipur,2023,stand_alone_institutions,28.857142857142865,linear_trend,0.3548387096774194
+Manipur,2024,stand_alone_institutions,30.428571428571438,linear_trend,0.3548387096774194
+Manipur,2020,foreign_students,21.428571428571423,linear_trend,0.7552437641723355
+Manipur,2021,foreign_students,24.035714285714285,linear_trend,0.7552437641723355
+Manipur,2022,foreign_students,26.64285714285714,linear_trend,0.7552437641723355
+Manipur,2023,foreign_students,29.25,linear_trend,0.7552437641723355
+Manipur,2024,foreign_students,31.857142857142854,linear_trend,0.7552437641723355
+Manipur,2020,university_enrolment,14558.0,linear_trend,0.3129361032434529
+Manipur,2021,university_enrolment,14949.857142857143,linear_trend,0.3129361032434529
+Manipur,2022,university_enrolment,15341.714285714286,linear_trend,0.3129361032434529
+Manipur,2023,university_enrolment,15733.57142857143,linear_trend,0.3129361032434529
+Manipur,2024,university_enrolment,16125.428571428572,linear_trend,0.3129361032434529
+Meghalaya,2020,teachers,3180.428571428572,linear_trend,0.013818358462716951
+Meghalaya,2021,teachers,3162.000000000001,linear_trend,0.013818358462716951
+Meghalaya,2022,teachers,3143.57142857143,linear_trend,0.013818358462716951
+Meghalaya,2023,teachers,3125.1428571428587,linear_trend,0.013818358462716951
+Meghalaya,2024,teachers,3106.7142857142876,linear_trend,0.013818358462716951
+Meghalaya,2020,colleges,64.71428571428571,linear_trend,0.197802197802197
+Meghalaya,2021,colleges,65.14285714285714,linear_trend,0.197802197802197
+Meghalaya,2022,colleges,65.57142857142857,linear_trend,0.197802197802197
+Meghalaya,2023,colleges,66.0,linear_trend,0.197802197802197
+Meghalaya,2024,colleges,66.42857142857143,linear_trend,0.197802197802197
+Meghalaya,2020,universities,9.428571428571425,linear_trend,0.0416666666666663
+Meghalaya,2021,universities,9.357142857142854,linear_trend,0.0416666666666663
+Meghalaya,2022,universities,9.285714285714283,linear_trend,0.0416666666666663
+Meghalaya,2023,universities,9.214285714285712,linear_trend,0.0416666666666663
+Meghalaya,2024,universities,9.14285714285714,linear_trend,0.0416666666666663
+Meghalaya,2020,stand_alone_institutions,20.14285714285714,linear_trend,0.375000000000001
+Meghalaya,2021,stand_alone_institutions,19.82142857142857,linear_trend,0.375000000000001
+Meghalaya,2022,stand_alone_institutions,19.499999999999996,linear_trend,0.375000000000001
+Meghalaya,2023,stand_alone_institutions,19.178571428571427,linear_trend,0.375000000000001
+Meghalaya,2024,stand_alone_institutions,18.857142857142854,linear_trend,0.375000000000001
+Meghalaya,2020,foreign_students,147.28571428571425,linear_trend,0.004148960606408569
+Meghalaya,2021,foreign_students,146.07142857142856,linear_trend,0.004148960606408569
+Meghalaya,2022,foreign_students,144.85714285714283,linear_trend,0.004148960606408569
+Meghalaya,2023,foreign_students,143.6428571428571,linear_trend,0.004148960606408569
+Meghalaya,2024,foreign_students,142.42857142857142,linear_trend,0.004148960606408569
+Meghalaya,2020,university_enrolment,22330.14285714286,linear_trend,0.9234496051606811
+Meghalaya,2021,university_enrolment,23348.14285714286,linear_trend,0.9234496051606811
+Meghalaya,2022,university_enrolment,24366.14285714286,linear_trend,0.9234496051606811
+Meghalaya,2023,university_enrolment,25384.14285714286,linear_trend,0.9234496051606811
+Meghalaya,2024,university_enrolment,26402.14285714286,linear_trend,0.9234496051606811
+Mizoram,2020,teachers,1919.4285714285716,linear_trend,0.8557090172825219
+Mizoram,2021,teachers,1968.5714285714287,linear_trend,0.8557090172825219
+Mizoram,2022,teachers,2017.7142857142858,linear_trend,0.8557090172825219
+Mizoram,2023,teachers,2066.857142857143,linear_trend,0.8557090172825219
+Mizoram,2024,teachers,2116.0,linear_trend,0.8557090172825219
+Mizoram,2020,colleges,34.14285714285714,linear_trend,0.7512019230769231
+Mizoram,2021,colleges,35.035714285714285,linear_trend,0.7512019230769231
+Mizoram,2022,colleges,35.92857142857143,linear_trend,0.7512019230769231
+Mizoram,2023,colleges,36.82142857142857,linear_trend,0.7512019230769231
+Mizoram,2024,colleges,37.714285714285715,linear_trend,0.7512019230769231
+Mizoram,2020,universities,2.9999999999999987,linear_trend,
+Mizoram,2021,universities,2.9999999999999987,linear_trend,
+Mizoram,2022,universities,2.9999999999999987,linear_trend,
+Mizoram,2023,universities,2.9999999999999987,linear_trend,
+Mizoram,2024,universities,2.9999999999999987,linear_trend,
+Mizoram,2020,stand_alone_institutions,15.57142857142857,linear_trend,0.3749999999999998
+Mizoram,2021,stand_alone_institutions,15.678571428571427,linear_trend,0.3749999999999998
+Mizoram,2022,stand_alone_institutions,15.785714285714285,linear_trend,0.3749999999999998
+Mizoram,2023,stand_alone_institutions,15.892857142857142,linear_trend,0.3749999999999998
+Mizoram,2024,stand_alone_institutions,16.0,linear_trend,0.3749999999999998
+Mizoram,2020,foreign_students,3.1428571428571437,linear_trend,0.0012135922330097637
+Mizoram,2021,foreign_students,3.107142857142858,linear_trend,0.0012135922330097637
+Mizoram,2022,foreign_students,3.071428571428573,linear_trend,0.0012135922330097637
+Mizoram,2023,foreign_students,3.0357142857142874,linear_trend,0.0012135922330097637
+Mizoram,2024,foreign_students,3.000000000000002,linear_trend,0.0012135922330097637
+Mizoram,2020,university_enrolment,11269.28571428571,linear_trend,0.262788942679792
+Mizoram,2021,university_enrolment,11538.892857142853,linear_trend,0.262788942679792
+Mizoram,2022,university_enrolment,11808.499999999996,linear_trend,0.262788942679792
+Mizoram,2023,university_enrolment,12078.10714285714,linear_trend,0.262788942679792
+Mizoram,2024,university_enrolment,12347.714285714283,linear_trend,0.262788942679792
+Nagaland,2020,teachers,2528.2857142857138,linear_trend,0.9654450812345551
+Nagaland,2021,teachers,2614.8571428571427,linear_trend,0.9654450812345551
+Nagaland,2022,teachers,2701.428571428571,linear_trend,0.9654450812345551
+Nagaland,2023,teachers,2788.0,linear_trend,0.9654450812345551
+Nagaland,2024,teachers,2874.5714285714284,linear_trend,0.9654450812345551
+Nagaland,2020,colleges,68.7142857142857,linear_trend,0.7100840336134449
+Nagaland,2021,colleges,69.64285714285712,linear_trend,0.7100840336134449
+Nagaland,2022,colleges,70.57142857142854,linear_trend,0.7100840336134449
+Nagaland,2023,colleges,71.49999999999997,linear_trend,0.7100840336134449
+Nagaland,2024,colleges,72.4285714285714,linear_trend,0.7100840336134449
+Nagaland,2020,universities,5.428571428571429,linear_trend,0.75
+Nagaland,2021,universities,5.642857142857142,linear_trend,0.75
+Nagaland,2022,universities,5.857142857142858,linear_trend,0.75
+Nagaland,2023,universities,6.071428571428571,linear_trend,0.75
+Nagaland,2024,universities,6.2857142857142865,linear_trend,0.75
+Nagaland,2020,stand_alone_institutions,19.57142857142857,linear_trend,0.7448453608247421
+Nagaland,2021,stand_alone_institutions,20.785714285714285,linear_trend,0.7448453608247421
+Nagaland,2022,stand_alone_institutions,22.0,linear_trend,0.7448453608247421
+Nagaland,2023,stand_alone_institutions,23.214285714285715,linear_trend,0.7448453608247421
+Nagaland,2024,stand_alone_institutions,24.428571428571427,linear_trend,0.7448453608247421
+Nagaland,2020,foreign_students,0.0,linear_trend_clipped,0.13821387972257126
+Nagaland,2021,foreign_students,0.0,linear_trend_clipped,0.13821387972257126
+Nagaland,2022,foreign_students,0.0,linear_trend_clipped,0.13821387972257126
+Nagaland,2023,foreign_students,0.0,linear_trend_clipped,0.13821387972257126
+Nagaland,2024,foreign_students,0.0,linear_trend_clipped,0.13821387972257126
+Nagaland,2020,university_enrolment,8874.714285714284,linear_trend,0.19676711078881814
+Nagaland,2021,university_enrolment,8606.107142857141,linear_trend,0.19676711078881814
+Nagaland,2022,university_enrolment,8337.5,linear_trend,0.19676711078881814
+Nagaland,2023,university_enrolment,8068.892857142857,linear_trend,0.19676711078881814
+Nagaland,2024,university_enrolment,7800.285714285715,linear_trend,0.19676711078881814
+Odisha,2020,teachers,37225.14285714286,linear_trend,0.1846154768802375
+Odisha,2021,teachers,36684.035714285725,linear_trend,0.1846154768802375
+Odisha,2022,teachers,36142.92857142858,linear_trend,0.1846154768802375
+Odisha,2023,teachers,35601.82142857144,linear_trend,0.1846154768802375
+Odisha,2024,teachers,35060.714285714304,linear_trend,0.1846154768802375
+Odisha,2020,colleges,1068.7142857142856,linear_trend,0.0031344032096237706
+Odisha,2021,colleges,1069.0714285714284,linear_trend,0.0031344032096237706
+Odisha,2022,colleges,1069.4285714285713,linear_trend,0.0031344032096237706
+Odisha,2023,colleges,1069.7857142857144,linear_trend,0.0031344032096237706
+Odisha,2024,colleges,1070.1428571428573,linear_trend,0.0031344032096237706
+Odisha,2020,universities,31.857142857142854,linear_trend,0.8787162162162162
+Odisha,2021,universities,33.67857142857143,linear_trend,0.8787162162162162
+Odisha,2022,universities,35.5,linear_trend,0.8787162162162162
+Odisha,2023,universities,37.32142857142857,linear_trend,0.8787162162162162
+Odisha,2024,universities,39.142857142857146,linear_trend,0.8787162162162162
+Odisha,2020,stand_alone_institutions,410.8571428571429,linear_trend,0.17935619972409833
+Odisha,2021,stand_alone_institutions,420.9642857142858,linear_trend,0.17935619972409833
+Odisha,2022,stand_alone_institutions,431.07142857142867,linear_trend,0.17935619972409833
+Odisha,2023,stand_alone_institutions,441.17857142857156,linear_trend,0.17935619972409833
+Odisha,2024,stand_alone_institutions,451.2857142857144,linear_trend,0.17935619972409833
+Odisha,2020,foreign_students,929.5714285714287,linear_trend,0.6485245378739399
+Odisha,2021,foreign_students,1071.2857142857142,linear_trend,0.6485245378739399
+Odisha,2022,foreign_students,1213.0,linear_trend,0.6485245378739399
+Odisha,2023,foreign_students,1354.7142857142856,linear_trend,0.6485245378739399
+Odisha,2024,foreign_students,1496.4285714285713,linear_trend,0.6485245378739399
+Odisha,2020,university_enrolment,173703.71428571423,linear_trend,0.9813164360493397
+Odisha,2021,university_enrolment,186343.03571428568,linear_trend,0.9813164360493397
+Odisha,2022,university_enrolment,198982.3571428571,linear_trend,0.9813164360493397
+Odisha,2023,university_enrolment,211621.67857142852,linear_trend,0.9813164360493397
+Odisha,2024,university_enrolment,224260.99999999994,linear_trend,0.9813164360493397
+Puducherry,2020,teachers,5751.42857142857,linear_trend,0.19268616956842122
+Puducherry,2021,teachers,5648.7142857142835,linear_trend,0.19268616956842122
+Puducherry,2022,teachers,5545.999999999998,linear_trend,0.19268616956842122
+Puducherry,2023,teachers,5443.285714285712,linear_trend,0.19268616956842122
+Puducherry,2024,teachers,5340.571428571427,linear_trend,0.19268616956842122
+Puducherry,2020,colleges,74.28571428571426,linear_trend,0.5608407079646017
+Puducherry,2021,colleges,72.89285714285712,linear_trend,0.5608407079646017
+Puducherry,2022,colleges,71.49999999999999,linear_trend,0.5608407079646017
+Puducherry,2023,colleges,70.10714285714285,linear_trend,0.5608407079646017
+Puducherry,2024,colleges,68.7142857142857,linear_trend,0.5608407079646017
+Puducherry,2020,universities,4.0,linear_trend,
+Puducherry,2021,universities,4.0,linear_trend,
+Puducherry,2022,universities,4.0,linear_trend,
+Puducherry,2023,universities,4.000000000000001,linear_trend,
+Puducherry,2024,universities,4.000000000000001,linear_trend,
+Puducherry,2020,stand_alone_institutions,0.0,linear_trend_clipped,0.7439931350114417
+Puducherry,2021,stand_alone_institutions,0.0,linear_trend_clipped,0.7439931350114417
+Puducherry,2022,stand_alone_institutions,0.0,linear_trend_clipped,0.7439931350114417
+Puducherry,2023,stand_alone_institutions,0.0,linear_trend_clipped,0.7439931350114417
+Puducherry,2024,stand_alone_institutions,0.0,linear_trend_clipped,0.7439931350114417
+Puducherry,2020,foreign_students,24.714285714285708,linear_trend_clipped,0.43855827571609984
+Puducherry,2021,foreign_students,16.749999999999993,linear_trend_clipped,0.43855827571609984
+Puducherry,2022,foreign_students,8.785714285714278,linear_trend_clipped,0.43855827571609984
+Puducherry,2023,foreign_students,0.8214285714285694,linear_trend_clipped,0.43855827571609984
+Puducherry,2024,foreign_students,0.0,linear_trend_clipped,0.43855827571609984
+Puducherry,2020,university_enrolment,,no_historical_data,
+Puducherry,2021,university_enrolment,,no_historical_data,
+Puducherry,2022,university_enrolment,,no_historical_data,
+Puducherry,2023,university_enrolment,,no_historical_data,
+Puducherry,2024,university_enrolment,,no_historical_data,
+Punjab,2020,teachers,49668.999999999985,linear_trend,0.08904645925938603
+Punjab,2021,teachers,49270.464285714275,linear_trend,0.08904645925938603
+Punjab,2022,teachers,48871.92857142856,linear_trend,0.08904645925938603
+Punjab,2023,teachers,48473.39285714284,linear_trend,0.08904645925938603
+Punjab,2024,teachers,48074.85714285713,linear_trend,0.08904645925938603
+Punjab,2020,colleges,1096.9999999999993,linear_trend,0.794554992764111
+Punjab,2021,colleges,1109.964285714285,linear_trend,0.794554992764111
+Punjab,2022,colleges,1122.9285714285709,linear_trend,0.794554992764111
+Punjab,2023,colleges,1135.8928571428564,linear_trend,0.794554992764111
+Punjab,2024,colleges,1148.8571428571422,linear_trend,0.794554992764111
+Punjab,2020,universities,35.142857142857146,linear_trend,0.959070796460177
+Punjab,2021,universities,36.964285714285715,linear_trend,0.959070796460177
+Punjab,2022,universities,38.78571428571429,linear_trend,0.959070796460177
+Punjab,2023,universities,40.60714285714286,linear_trend,0.959070796460177
+Punjab,2024,universities,42.42857142857143,linear_trend,0.959070796460177
+Punjab,2020,stand_alone_institutions,419.4285714285714,linear_trend,0.14279437609841816
+Punjab,2021,stand_alone_institutions,424.07142857142856,linear_trend,0.14279437609841816
+Punjab,2022,stand_alone_institutions,428.71428571428567,linear_trend,0.14279437609841816
+Punjab,2023,stand_alone_institutions,433.35714285714283,linear_trend,0.14279437609841816
+Punjab,2024,stand_alone_institutions,438.0,linear_trend,0.14279437609841816
+Punjab,2020,foreign_students,,no_historical_data,
+Punjab,2021,foreign_students,,no_historical_data,
+Punjab,2022,foreign_students,,no_historical_data,
+Punjab,2023,foreign_students,,no_historical_data,
+Punjab,2024,foreign_students,,no_historical_data,
+Punjab,2020,university_enrolment,253706.2857142857,linear_trend,0.9098532936802758
+Punjab,2021,university_enrolment,268662.5714285714,linear_trend,0.9098532936802758
+Punjab,2022,university_enrolment,283618.85714285716,linear_trend,0.9098532936802758
+Punjab,2023,university_enrolment,298575.1428571429,linear_trend,0.9098532936802758
+Punjab,2024,university_enrolment,313531.42857142864,linear_trend,0.9098532936802758
+Rajasthan,2020,teachers,68971.42857142855,linear_trend,0.013898193070347564
+Rajasthan,2021,teachers,68648.71428571426,linear_trend,0.013898193070347564
+Rajasthan,2022,teachers,68325.99999999999,linear_trend,0.013898193070347564
+Rajasthan,2023,teachers,68003.2857142857,linear_trend,0.013898193070347564
+Rajasthan,2024,teachers,67680.5714285714,linear_trend,0.013898193070347564
+Rajasthan,2020,colleges,3380.714285714286,linear_trend,0.717155441046988
+Rajasthan,2021,colleges,3461.1785714285716,linear_trend,0.717155441046988
+Rajasthan,2022,colleges,3541.642857142858,linear_trend,0.717155441046988
+Rajasthan,2023,colleges,3622.107142857143,linear_trend,0.717155441046988
+Rajasthan,2024,colleges,3702.5714285714294,linear_trend,0.717155441046988
+Rajasthan,2020,universities,93.00000000000001,linear_trend,0.9707380715705766
+Rajasthan,2021,universities,97.46428571428572,linear_trend,0.9707380715705766
+Rajasthan,2022,universities,101.92857142857144,linear_trend,0.9707380715705766
+Rajasthan,2023,universities,106.39285714285717,linear_trend,0.9707380715705766
+Rajasthan,2024,universities,110.85714285714289,linear_trend,0.9707380715705766
+Rajasthan,2020,stand_alone_institutions,500.0,linear_trend,0.20279012420847486
+Rajasthan,2021,stand_alone_institutions,486.9642857142858,linear_trend,0.20279012420847486
+Rajasthan,2022,stand_alone_institutions,473.9285714285715,linear_trend,0.20279012420847486
+Rajasthan,2023,stand_alone_institutions,460.8928571428572,linear_trend,0.20279012420847486
+Rajasthan,2024,stand_alone_institutions,447.857142857143,linear_trend,0.20279012420847486
+Rajasthan,2020,foreign_students,1586.7142857142858,linear_trend,0.9685660597378846
+Rajasthan,2021,foreign_students,1739.9642857142858,linear_trend,0.9685660597378846
+Rajasthan,2022,foreign_students,1893.2142857142858,linear_trend,0.9685660597378846
+Rajasthan,2023,foreign_students,2046.4642857142858,linear_trend,0.9685660597378846
+Rajasthan,2024,foreign_students,2199.714285714286,linear_trend,0.9685660597378846
+Rajasthan,2020,university_enrolment,467938.14285714284,linear_trend,0.8301800210556693
+Rajasthan,2021,university_enrolment,503132.6785714285,linear_trend,0.8301800210556693
+Rajasthan,2022,university_enrolment,538327.2142857143,linear_trend,0.8301800210556693
+Rajasthan,2023,university_enrolment,573521.75,linear_trend,0.8301800210556693
+Rajasthan,2024,university_enrolment,608716.2857142857,linear_trend,0.8301800210556693
+Sikkim,2020,teachers,1674.1428571428569,linear_trend,0.7140699584898925
+Sikkim,2021,teachers,1730.5714285714284,linear_trend,0.7140699584898925
+Sikkim,2022,teachers,1787.0,linear_trend,0.7140699584898925
+Sikkim,2023,teachers,1843.4285714285713,linear_trend,0.7140699584898925
+Sikkim,2024,teachers,1899.857142857143,linear_trend,0.7140699584898925
+Sikkim,2020,colleges,22.28571428571428,linear_trend,0.9401041666666665
+Sikkim,2021,colleges,23.64285714285714,linear_trend,0.9401041666666665
+Sikkim,2022,colleges,24.999999999999996,linear_trend,0.9401041666666665
+Sikkim,2023,colleges,26.357142857142854,linear_trend,0.9401041666666665
+Sikkim,2024,colleges,27.714285714285708,linear_trend,0.9401041666666665
+Sikkim,2020,universities,7.857142857142856,linear_trend,0.6428571428571432
+Sikkim,2021,universities,8.071428571428571,linear_trend,0.6428571428571432
+Sikkim,2022,universities,8.285714285714285,linear_trend,0.6428571428571432
+Sikkim,2023,universities,8.5,linear_trend,0.6428571428571432
+Sikkim,2024,universities,8.714285714285714,linear_trend,0.6428571428571432
+Sikkim,2020,stand_alone_institutions,8.571428571428571,linear_trend,0.6859756097560976
+Sikkim,2021,stand_alone_institutions,9.107142857142858,linear_trend,0.6859756097560976
+Sikkim,2022,stand_alone_institutions,9.642857142857142,linear_trend,0.6859756097560976
+Sikkim,2023,stand_alone_institutions,10.178571428571427,linear_trend,0.6859756097560976
+Sikkim,2024,stand_alone_institutions,10.714285714285715,linear_trend,0.6859756097560976
+Sikkim,2020,foreign_students,120.71428571428561,linear_trend_clipped,0.7397920542458345
+Sikkim,2021,foreign_students,66.21428571428561,linear_trend_clipped,0.7397920542458345
+Sikkim,2022,foreign_students,11.714285714285609,linear_trend_clipped,0.7397920542458345
+Sikkim,2023,foreign_students,0.0,linear_trend_clipped,0.7397920542458345
+Sikkim,2024,foreign_students,0.0,linear_trend_clipped,0.7397920542458345
+Sikkim,2020,university_enrolment,38443.142857142855,linear_trend,0.6476551020096902
+Sikkim,2021,university_enrolment,42397.21428571428,linear_trend,0.6476551020096902
+Sikkim,2022,university_enrolment,46351.28571428571,linear_trend,0.6476551020096902
+Sikkim,2023,university_enrolment,50305.35714285714,linear_trend,0.6476551020096902
+Sikkim,2024,university_enrolment,54259.428571428565,linear_trend,0.6476551020096902
+Tamil Nadu,2020,teachers,197585.99999999994,linear_trend,4.401209608206891e-06
+Tamil Nadu,2021,teachers,197578.78571428565,linear_trend,4.401209608206891e-06
+Tamil Nadu,2022,teachers,197571.57142857136,linear_trend,4.401209608206891e-06
+Tamil Nadu,2023,teachers,197564.3571428571,linear_trend,4.401209608206891e-06
+Tamil Nadu,2024,teachers,197557.1428571428,linear_trend,4.401209608206891e-06
+Tamil Nadu,2020,colleges,2536.1428571428564,linear_trend,0.2533532895537778
+Tamil Nadu,2021,colleges,2555.1428571428564,linear_trend,0.2533532895537778
+Tamil Nadu,2022,colleges,2574.1428571428564,linear_trend,0.2533532895537778
+Tamil Nadu,2023,colleges,2593.1428571428564,linear_trend,0.2533532895537778
+Tamil Nadu,2024,colleges,2612.1428571428564,linear_trend,0.2533532895537778
+Tamil Nadu,2020,universities,58.99999999999999,linear_trend,0.6250000000000021
+Tamil Nadu,2021,universities,59.178571428571416,linear_trend,0.6250000000000021
+Tamil Nadu,2022,universities,59.35714285714285,linear_trend,0.6250000000000021
+Tamil Nadu,2023,universities,59.53571428571428,linear_trend,0.6250000000000021
+Tamil Nadu,2024,universities,59.71428571428571,linear_trend,0.6250000000000021
+Tamil Nadu,2020,stand_alone_institutions,816.9999999999998,linear_trend,0.8271530830372734
+Tamil Nadu,2021,stand_alone_institutions,769.6428571428569,linear_trend,0.8271530830372734
+Tamil Nadu,2022,stand_alone_institutions,722.285714285714,linear_trend,0.8271530830372734
+Tamil Nadu,2023,stand_alone_institutions,674.9285714285712,linear_trend,0.8271530830372734
+Tamil Nadu,2024,stand_alone_institutions,627.5714285714284,linear_trend,0.8271530830372734
+Tamil Nadu,2020,foreign_students,3643.142857142856,linear_trend,0.6105291439685705
+Tamil Nadu,2021,foreign_students,3356.499999999999,linear_trend,0.6105291439685705
+Tamil Nadu,2022,foreign_students,3069.857142857142,linear_trend,0.6105291439685705
+Tamil Nadu,2023,foreign_students,2783.214285714285,linear_trend,0.6105291439685705
+Tamil Nadu,2024,foreign_students,2496.5714285714275,linear_trend,0.6105291439685705
+Tamil Nadu,2020,university_enrolment,850804.8571428567,linear_trend,0.060983247720919675
+Tamil Nadu,2021,university_enrolment,857044.6428571424,linear_trend,0.060983247720919675
+Tamil Nadu,2022,university_enrolment,863284.428571428,linear_trend,0.060983247720919675
+Tamil Nadu,2023,university_enrolment,869524.2142857139,linear_trend,0.060983247720919675
+Tamil Nadu,2024,university_enrolment,875763.9999999995,linear_trend,0.060983247720919675
+Telangana,2020,teachers,78710.71428571426,linear_trend,0.16873392168543677
+Telangana,2021,teachers,77451.5357142857,linear_trend,0.16873392168543677
+Telangana,2022,teachers,76192.35714285713,linear_trend,0.16873392168543677
+Telangana,2023,teachers,74933.17857142855,linear_trend,0.16873392168543677
+Telangana,2024,teachers,73673.99999999997,linear_trend,0.16873392168543677
+Telangana,2020,colleges,1956.8571428571427,linear_trend,0.5754626650320752
+Telangana,2021,colleges,1886.8571428571427,linear_trend,0.5754626650320752
+Telangana,2022,colleges,1816.857142857143,linear_trend,0.5754626650320752
+Telangana,2023,colleges,1746.8571428571431,linear_trend,0.5754626650320752
+Telangana,2024,colleges,1676.8571428571431,linear_trend,0.5754626650320752
+Telangana,2020,universities,25.714285714285715,linear_trend,0.7966867469879514
+Telangana,2021,universities,26.53571428571429,linear_trend,0.7966867469879514
+Telangana,2022,universities,27.35714285714286,linear_trend,0.7966867469879514
+Telangana,2023,universities,28.17857142857143,linear_trend,0.7966867469879514
+Telangana,2024,universities,29.000000000000007,linear_trend,0.7966867469879514
+Telangana,2020,stand_alone_institutions,507.42857142857133,linear_trend,0.17298189258209085
+Telangana,2021,stand_alone_institutions,494.17857142857133,linear_trend,0.17298189258209085
+Telangana,2022,stand_alone_institutions,480.92857142857133,linear_trend,0.17298189258209085
+Telangana,2023,stand_alone_institutions,467.6785714285714,linear_trend,0.17298189258209085
+Telangana,2024,stand_alone_institutions,454.4285714285714,linear_trend,0.17298189258209085
+Telangana,2020,foreign_students,2435.428571428571,linear_trend,0.060078438076037854
+Telangana,2021,foreign_students,2372.178571428571,linear_trend,0.060078438076037854
+Telangana,2022,foreign_students,2308.9285714285716,linear_trend,0.060078438076037854
+Telangana,2023,foreign_students,2245.6785714285716,linear_trend,0.060078438076037854
+Telangana,2024,foreign_students,2182.4285714285716,linear_trend,0.060078438076037854
+Telangana,2020,university_enrolment,57269.14285714284,linear_trend_clipped,0.7412459427382598
+Telangana,2021,university_enrolment,28232.39285714284,linear_trend_clipped,0.7412459427382598
+Telangana,2022,university_enrolment,0.0,linear_trend_clipped,0.7412459427382598
+Telangana,2023,university_enrolment,0.0,linear_trend_clipped,0.7412459427382598
+Telangana,2024,university_enrolment,0.0,linear_trend_clipped,0.7412459427382598
+The Dadra And Nagar Haveli And Daman And Diu,2020,teachers,502.14285714285717,linear_trend,0.9162819006044325
+The Dadra And Nagar Haveli And Daman And Diu,2021,teachers,526.8928571428572,linear_trend,0.9162819006044325
+The Dadra And Nagar Haveli And Daman And Diu,2022,teachers,551.6428571428572,linear_trend,0.9162819006044325
+The Dadra And Nagar Haveli And Daman And Diu,2023,teachers,576.3928571428572,linear_trend,0.9162819006044325
+The Dadra And Nagar Haveli And Daman And Diu,2024,teachers,601.1428571428572,linear_trend,0.9162819006044325
+The Dadra And Nagar Haveli And Daman And Diu,2020,colleges,19.0,linear_trend,0.6532258064516128
+The Dadra And Nagar Haveli And Daman And Diu,2021,colleges,19.642857142857146,linear_trend,0.6532258064516128
+The Dadra And Nagar Haveli And Daman And Diu,2022,colleges,20.28571428571429,linear_trend,0.6532258064516128
+The Dadra And Nagar Haveli And Daman And Diu,2023,colleges,20.928571428571434,linear_trend,0.6532258064516128
+The Dadra And Nagar Haveli And Daman And Diu,2024,colleges,21.571428571428577,linear_trend,0.6532258064516128
+The Dadra And Nagar Haveli And Daman And Diu,2020,universities,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2021,universities,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2022,universities,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2023,universities,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2024,universities,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2020,stand_alone_institutions,3.7142857142857126,linear_trend,0.37500000000000056
+The Dadra And Nagar Haveli And Daman And Diu,2021,stand_alone_institutions,3.6071428571428554,linear_trend,0.37500000000000056
+The Dadra And Nagar Haveli And Daman And Diu,2022,stand_alone_institutions,3.4999999999999982,linear_trend,0.37500000000000056
+The Dadra And Nagar Haveli And Daman And Diu,2023,stand_alone_institutions,3.3928571428571406,linear_trend,0.37500000000000056
+The Dadra And Nagar Haveli And Daman And Diu,2024,stand_alone_institutions,3.285714285714284,linear_trend,0.37500000000000056
+The Dadra And Nagar Haveli And Daman And Diu,2020,foreign_students,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2021,foreign_students,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2022,foreign_students,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2023,foreign_students,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2024,foreign_students,,no_historical_data,
+The Dadra And Nagar Haveli And Daman And Diu,2020,university_enrolment,108.28571428571429,linear_trend,0.09511263338163611
+The Dadra And Nagar Haveli And Daman And Diu,2021,university_enrolment,105.57142857142858,linear_trend,0.09511263338163611
+The Dadra And Nagar Haveli And Daman And Diu,2022,university_enrolment,102.85714285714288,linear_trend,0.09511263338163611
+The Dadra And Nagar Haveli And Daman And Diu,2023,university_enrolment,100.14285714285717,linear_trend,0.09511263338163611
+The Dadra And Nagar Haveli And Daman And Diu,2024,university_enrolment,97.42857142857146,linear_trend,0.09511263338163611
+Tripura,2020,teachers,2356.857142857143,linear_trend,1.616469888388039e-06
+Tripura,2021,teachers,2356.821428571429,linear_trend,1.616469888388039e-06
+Tripura,2022,teachers,2356.7857142857147,linear_trend,1.616469888388039e-06
+Tripura,2023,teachers,2356.7500000000005,linear_trend,1.616469888388039e-06
+Tripura,2024,teachers,2356.7142857142862,linear_trend,1.616469888388039e-06
+Tripura,2020,colleges,54.571428571428555,linear_trend,0.8284090909090909
+Tripura,2021,colleges,55.53571428571427,linear_trend,0.8284090909090909
+Tripura,2022,colleges,56.499999999999986,linear_trend,0.8284090909090909
+Tripura,2023,colleges,57.4642857142857,linear_trend,0.8284090909090909
+Tripura,2024,colleges,58.428571428571416,linear_trend,0.8284090909090909
+Tripura,2020,universities,4.571428571428571,linear_trend,0.3750000000000002
+Tripura,2021,universities,4.785714285714286,linear_trend,0.3750000000000002
+Tripura,2022,universities,5.0,linear_trend,0.3750000000000002
+Tripura,2023,universities,5.214285714285714,linear_trend,0.3750000000000002
+Tripura,2024,universities,5.428571428571429,linear_trend,0.3750000000000002
+Tripura,2020,stand_alone_institutions,9.285714285714285,linear_trend,0.17385057471264376
+Tripura,2021,stand_alone_institutions,8.892857142857142,linear_trend,0.17385057471264376
+Tripura,2022,stand_alone_institutions,8.5,linear_trend,0.17385057471264376
+Tripura,2023,stand_alone_institutions,8.107142857142858,linear_trend,0.17385057471264376
+Tripura,2024,stand_alone_institutions,7.714285714285715,linear_trend,0.17385057471264376
+Tripura,2020,foreign_students,22.85714285714286,linear_trend,0.377094554159186
+Tripura,2021,foreign_students,25.392857142857146,linear_trend,0.377094554159186
+Tripura,2022,foreign_students,27.92857142857143,linear_trend,0.377094554159186
+Tripura,2023,foreign_students,30.46428571428572,linear_trend,0.377094554159186
+Tripura,2024,foreign_students,33.00000000000001,linear_trend,0.377094554159186
+Tripura,2020,university_enrolment,23224.42857142856,linear_trend,0.20556550395505901
+Tripura,2021,university_enrolment,23723.607142857134,linear_trend,0.20556550395505901
+Tripura,2022,university_enrolment,24222.785714285703,linear_trend,0.20556550395505901
+Tripura,2023,university_enrolment,24721.964285714275,linear_trend,0.20556550395505901
+Tripura,2024,university_enrolment,25221.142857142848,linear_trend,0.20556550395505901
+Uttar Pradesh,2020,teachers,143725.0,linear_trend,0.0031832348670899346
+Uttar Pradesh,2021,teachers,143144.67857142858,linear_trend,0.0031832348670899346
+Uttar Pradesh,2022,teachers,142564.35714285716,linear_trend,0.0031832348670899346
+Uttar Pradesh,2023,teachers,141984.03571428574,linear_trend,0.0031832348670899346
+Uttar Pradesh,2024,teachers,141403.71428571432,linear_trend,0.0031832348670899346
+Uttar Pradesh,2020,colleges,8055.285714285715,linear_trend,0.9106854926708762
+Uttar Pradesh,2021,colleges,8396.857142857143,linear_trend,0.9106854926708762
+Uttar Pradesh,2022,colleges,8738.428571428572,linear_trend,0.9106854926708762
+Uttar Pradesh,2023,colleges,9080.0,linear_trend,0.9106854926708762
+Uttar Pradesh,2024,colleges,9421.57142857143,linear_trend,0.9106854926708762
+Uttar Pradesh,2020,universities,85.42857142857142,linear_trend,0.9808006535947712
+Uttar Pradesh,2021,universities,88.92857142857142,linear_trend,0.9808006535947712
+Uttar Pradesh,2022,universities,92.42857142857142,linear_trend,0.9808006535947712
+Uttar Pradesh,2023,universities,95.92857142857142,linear_trend,0.9808006535947712
+Uttar Pradesh,2024,universities,99.42857142857142,linear_trend,0.9808006535947712
+Uttar Pradesh,2020,stand_alone_institutions,1083.2857142857142,linear_trend,0.48727001329660347
+Uttar Pradesh,2021,stand_alone_institutions,1122.8214285714284,linear_trend,0.48727001329660347
+Uttar Pradesh,2022,stand_alone_institutions,1162.3571428571427,linear_trend,0.48727001329660347
+Uttar Pradesh,2023,stand_alone_institutions,1201.892857142857,linear_trend,0.48727001329660347
+Uttar Pradesh,2024,stand_alone_institutions,1241.4285714285713,linear_trend,0.48727001329660347
+Uttar Pradesh,2020,foreign_students,5362.142857142857,linear_trend,0.9571145521132504
+Uttar Pradesh,2021,foreign_students,5732.821428571428,linear_trend,0.9571145521132504
+Uttar Pradesh,2022,foreign_students,6103.5,linear_trend,0.9571145521132504
+Uttar Pradesh,2023,foreign_students,6474.178571428571,linear_trend,0.9571145521132504
+Uttar Pradesh,2024,foreign_students,6844.857142857143,linear_trend,0.9571145521132504
+Uttar Pradesh,2020,university_enrolment,615056.4285714286,linear_trend,0.8666542157082509
+Uttar Pradesh,2021,university_enrolment,650172.0714285716,linear_trend,0.8666542157082509
+Uttar Pradesh,2022,university_enrolment,685287.7142857144,linear_trend,0.8666542157082509
+Uttar Pradesh,2023,university_enrolment,720403.3571428573,linear_trend,0.8666542157082509
+Uttar Pradesh,2024,university_enrolment,755519.0000000002,linear_trend,0.8666542157082509
+Uttarakhand,2020,teachers,17994.57142857143,linear_trend,0.18349355531832345
+Uttarakhand,2021,teachers,18331.64285714286,linear_trend,0.18349355531832345
+Uttarakhand,2022,teachers,18668.71428571429,linear_trend,0.18349355531832345
+Uttarakhand,2023,teachers,19005.785714285717,linear_trend,0.18349355531832345
+Uttarakhand,2024,teachers,19342.85714285715,linear_trend,0.18349355531832345
+Uttarakhand,2020,colleges,461.2857142857142,linear_trend,0.4060585553497653
+Uttarakhand,2021,colleges,466.6785714285714,linear_trend,0.4060585553497653
+Uttarakhand,2022,colleges,472.0714285714285,linear_trend,0.4060585553497653
+Uttarakhand,2023,colleges,477.46428571428567,linear_trend,0.4060585553497653
+Uttarakhand,2024,colleges,482.8571428571428,linear_trend,0.4060585553497653
+Uttarakhand,2020,universities,38.85714285714285,linear_trend,0.9434584178498985
+Uttarakhand,2021,universities,41.03571428571428,linear_trend,0.9434584178498985
+Uttarakhand,2022,universities,43.2142857142857,linear_trend,0.9434584178498985
+Uttarakhand,2023,universities,45.392857142857125,linear_trend,0.9434584178498985
+Uttarakhand,2024,universities,47.571428571428555,linear_trend,0.9434584178498985
+Uttarakhand,2020,stand_alone_institutions,173.42857142857144,linear_trend,0.9146857701074569
+Uttarakhand,2021,stand_alone_institutions,181.00000000000003,linear_trend,0.9146857701074569
+Uttarakhand,2022,stand_alone_institutions,188.5714285714286,linear_trend,0.9146857701074569
+Uttarakhand,2023,stand_alone_institutions,196.14285714285717,linear_trend,0.9146857701074569
+Uttarakhand,2024,stand_alone_institutions,203.71428571428575,linear_trend,0.9146857701074569
+Uttarakhand,2020,foreign_students,,no_historical_data,
+Uttarakhand,2021,foreign_students,,no_historical_data,
+Uttarakhand,2022,foreign_students,,no_historical_data,
+Uttarakhand,2023,foreign_students,,no_historical_data,
+Uttarakhand,2024,foreign_students,,no_historical_data,
+Uttarakhand,2020,university_enrolment,221306.42857142858,linear_trend,0.943772367316747
+Uttarakhand,2021,university_enrolment,238311.28571428574,linear_trend,0.943772367316747
+Uttarakhand,2022,university_enrolment,255316.1428571429,linear_trend,0.943772367316747
+Uttarakhand,2023,university_enrolment,272321.0,linear_trend,0.943772367316747
+Uttarakhand,2024,university_enrolment,289325.85714285716,linear_trend,0.943772367316747
+West Bengal,2020,teachers,63183.85714285712,linear_trend,0.7168282387536704
+West Bengal,2021,teachers,65648.10714285713,linear_trend,0.7168282387536704
+West Bengal,2022,teachers,68112.35714285713,linear_trend,0.7168282387536704
+West Bengal,2023,teachers,70576.60714285713,linear_trend,0.7168282387536704
+West Bengal,2024,teachers,73040.85714285713,linear_trend,0.7168282387536704
+West Bengal,2020,colleges,1518.0000000000002,linear_trend,0.963279818341168
+West Bengal,2021,colleges,1595.7500000000002,linear_trend,0.963279818341168
+West Bengal,2022,colleges,1673.5000000000002,linear_trend,0.963279818341168
+West Bengal,2023,colleges,1751.2500000000002,linear_trend,0.963279818341168
+West Bengal,2024,colleges,1829.0000000000002,linear_trend,0.963279818341168
+West Bengal,2020,universities,52.14285714285713,linear_trend,0.9616721177432543
+West Bengal,2021,universities,55.60714285714285,linear_trend,0.9616721177432543
+West Bengal,2022,universities,59.07142857142856,linear_trend,0.9616721177432543
+West Bengal,2023,universities,62.53571428571428,linear_trend,0.9616721177432543
+West Bengal,2024,universities,66.0,linear_trend,0.9616721177432543
+West Bengal,2020,stand_alone_institutions,528.0,linear_trend,0.9332553493430734
+West Bengal,2021,stand_alone_institutions,568.4642857142857,linear_trend,0.9332553493430734
+West Bengal,2022,stand_alone_institutions,608.9285714285713,linear_trend,0.9332553493430734
+West Bengal,2023,stand_alone_institutions,649.3928571428571,linear_trend,0.9332553493430734
+West Bengal,2024,stand_alone_institutions,689.8571428571428,linear_trend,0.9332553493430734
+West Bengal,2020,foreign_students,1181.5714285714284,linear_trend,0.603316408298852
+West Bengal,2021,foreign_students,1227.5357142857142,linear_trend,0.603316408298852
+West Bengal,2022,foreign_students,1273.5,linear_trend,0.603316408298852
+West Bengal,2023,foreign_students,1319.4642857142858,linear_trend,0.603316408298852
+West Bengal,2024,foreign_students,1365.4285714285716,linear_trend,0.603316408298852
+West Bengal,2020,university_enrolment,358345.2857142858,linear_trend,0.8087850812998717
+West Bengal,2021,university_enrolment,370521.42857142864,linear_trend,0.8087850812998717
+West Bengal,2022,university_enrolment,382697.5714285715,linear_trend,0.8087850812998717
+West Bengal,2023,university_enrolment,394873.7142857144,linear_trend,0.8087850812998717
+West Bengal,2024,university_enrolment,407049.8571428573,linear_trend,0.8087850812998717

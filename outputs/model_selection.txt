@@ -1,0 +1,3 @@
+Best-performing model: XGBoost
+Reason: Lowest average ranking across MAE, RMSE, MAPE and R2 on the chronological test set (2018-2019). Metrics: MAE=43467, RMSE=69042, MAPE=62.38%, R2=0.9975.
+Additional models: hybrid SVR (WOASVR, GWOSVR, PSOSVR metaheuristic tuning; ActualGRIDSVR grid search) and per-state univariate time-series models (ARIMA auto_arima, ETS additive trend, TBATS) trained on each State's 2013-2017 enrollment history and forecasting 2018-2019. See outputs/hybrid_best_params.json, outputs/hybrid_optimization.csv and outputs/time_series_methods.csv.

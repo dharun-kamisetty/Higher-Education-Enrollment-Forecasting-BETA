@@ -1,0 +1,13 @@
+=== Forecast Methodology ===
+
+1. Historical modeling period: 2014-2019 (6 years per state; 2013 used as lag input). Benchmark train/test split 2014-17 / 2018-19 is separate and unchanged.
+2. Forecast horizon: primary projection 2020-2022; extended sensitivity 2020-2024. No 2030 point forecast is produced.
+3. Stage 1 method: per State, per indicator, a simple linear trend y = a + b*t (t = calendar year) is fitted on available historical observations through 2019. If fewer than 3 observations exist, or the projection exceeds 3.0x the historical maximum, the last observed value is used as a documented fallback.
+4. Count indicators forecast: teachers, colleges, universities, stand_alone_institutions, foreign_students, university_enrolment. Negative projections are clipped to zero; fallbacks are recorded in outputs/future_indicator_forecasts.csv and outputs/indicator_trend_summary.csv.
+5. Ratio indicators treatment: GER, GPI, PTR_all, PTR_university_colleges, PTR_university_units are NOT extrapolated. They are held at their 2019 value as the '2019 ratio baseline scenario'. These are assumptions, not actual future observations.
+6. Stage 2 model: XGBoost, retrained on the complete 2014-2019 modeling dataset with the same feature preprocessing as the validated benchmark pipeline.
+7. Recursive forecasting procedure: for each State and scenario, enrollment is forecast year-by-year. Each year uses the previous (predicted where applicable) enrollment for enrollment lag features, Stage-1 projected count indicators, and the ratio scenario. Predicted enrollment is fed back; actual future enrollment is never used.
+8. Scenario assumptions: base = 2019 ratio baseline; lower = base x 0.95; upper = base x 1.05 (documented 5% perturbation). Count indicator projections are identical across scenarios.
+9. Limitations: only 6-7 historical observations per state; count-indicator projections assume linear continuation of short trends; ratio indicators are held constant by design; long-horizon projections are therefore indicative, not predictive. The 2018-19 benchmark validation measures one-step model accuracy and must be interpreted separately from the multi-year projection.
+
+Aggregate base projection (sum across 35 states): history (2013: 32,064,257 | 2014: 33,943,690 | 2015: 34,320,373 | 2016: 35,430,513 | 2017: 36,350,701 | 2018: 37,095,329 | 2019: 38,228,258); base forecast (2020: 39,126,568 | 2021: 39,464,089 | 2022: 39,702,441 | 2023: 39,989,498 | 2024: 40,030,167)

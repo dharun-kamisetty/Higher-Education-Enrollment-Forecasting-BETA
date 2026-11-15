@@ -1,0 +1,421 @@
+State,Year,Enrollment,is_forecast,Scenario
+Andaman And Nicobar Islands,2013,11501.0,False,Historical
+Andaman And Nicobar Islands,2014,10669.0,False,Historical
+Andaman And Nicobar Islands,2015,11024.0,False,Historical
+Andaman And Nicobar Islands,2016,10857.0,False,Historical
+Andaman And Nicobar Islands,2017,10600.0,False,Historical
+Andaman And Nicobar Islands,2018,11511.0,False,Historical
+Andaman And Nicobar Islands,2019,10131.0,False,Historical
+Andhra Pradesh,2013,1760985.0,False,Historical
+Andhra Pradesh,2014,1767086.0,False,Historical
+Andhra Pradesh,2015,1724538.0,False,Historical
+Andhra Pradesh,2016,1799433.0,False,Historical
+Andhra Pradesh,2017,1697282.0,False,Historical
+Andhra Pradesh,2018,1760830.0,False,Historical
+Andhra Pradesh,2019,1897149.0,False,Historical
+Arunachal Pradesh,2013,42905.0,False,Historical
+Arunachal Pradesh,2014,46116.0,False,Historical
+Arunachal Pradesh,2015,46452.0,False,Historical
+Arunachal Pradesh,2016,46564.0,False,Historical
+Arunachal Pradesh,2017,47464.0,False,Historical
+Arunachal Pradesh,2018,47168.0,False,Historical
+Arunachal Pradesh,2019,55816.0,False,Historical
+Assam,2013,579027.0,False,Historical
+Assam,2014,546265.0,False,Historical
+Assam,2015,570955.0,False,Historical
+Assam,2016,640270.0,False,Historical
+Assam,2017,678344.0,False,Historical
+Assam,2018,700163.0,False,Historical
+Assam,2019,650601.0,False,Historical
+Bihar,2013,1402947.0,False,Historical
+Bihar,2014,1529851.0,False,Historical
+Bihar,2015,1602860.0,False,Historical
+Bihar,2016,1645518.0,False,Historical
+Bihar,2017,1514595.0,False,Historical
+Bihar,2018,1607008.0,False,Historical
+Bihar,2019,1738432.0,False,Historical
+Chandigarh,2013,89011.0,False,Historical
+Chandigarh,2014,93469.0,False,Historical
+Chandigarh,2015,99992.0,False,Historical
+Chandigarh,2016,100849.0,False,Historical
+Chandigarh,2017,105829.0,False,Historical
+Chandigarh,2018,99009.0,False,Historical
+Chandigarh,2019,106667.0,False,Historical
+Chhattisgarh,2013,425260.0,False,Historical
+Chhattisgarh,2014,447915.0,False,Historical
+Chhattisgarh,2015,466030.0,False,Historical
+Chhattisgarh,2016,500046.0,False,Historical
+Chhattisgarh,2017,574861.0,False,Historical
+Chhattisgarh,2018,586924.0,False,Historical
+Chhattisgarh,2019,586395.0,False,Historical
+Delhi,2013,809859.0,False,Historical
+Delhi,2014,823699.0,False,Historical
+Delhi,2015,876286.0,False,Historical
+Delhi,2016,882284.0,False,Historical
+Delhi,2017,908995.0,False,Historical
+Delhi,2018,921884.0,False,Historical
+Delhi,2019,974483.0,False,Historical
+Goa,2013,43114.0,False,Historical
+Goa,2014,46457.0,False,Historical
+Goa,2015,47266.0,False,Historical
+Goa,2016,48669.0,False,Historical
+Goa,2017,49641.0,False,Historical
+Goa,2018,54680.0,False,Historical
+Goa,2019,52782.0,False,Historical
+Gujarat,2013,1391010.0,False,Historical
+Gujarat,2014,1435209.0,False,Historical
+Gujarat,2015,1487129.0,False,Historical
+Gujarat,2016,1458104.0,False,Historical
+Gujarat,2017,1453255.0,False,Historical
+Gujarat,2018,1478052.0,False,Historical
+Gujarat,2019,1544840.0,False,Historical
+Haryana,2013,874973.0,False,Historical
+Haryana,2014,877713.0,False,Historical
+Haryana,2015,831659.0,False,Historical
+Haryana,2016,925290.0,False,Historical
+Haryana,2017,913443.0,False,Historical
+Haryana,2018,928893.0,False,Historical
+Haryana,2019,933541.0,False,Historical
+Himachal Pradesh,2013,223273.0,False,Historical
+Himachal Pradesh,2014,234917.0,False,Historical
+Himachal Pradesh,2015,241705.0,False,Historical
+Himachal Pradesh,2016,270210.0,False,Historical
+Himachal Pradesh,2017,275708.0,False,Historical
+Himachal Pradesh,2018,283860.0,False,Historical
+Himachal Pradesh,2019,289488.0,False,Historical
+Jammu And Kashmir,2013,235256.0,False,Historical
+Jammu And Kashmir,2014,231634.0,False,Historical
+Jammu And Kashmir,2015,230000.0,False,Historical
+Jammu And Kashmir,2016,230981.0,False,Historical
+Jammu And Kashmir,2017,246948.0,False,Historical
+Jammu And Kashmir,2018,272442.0,False,Historical
+Jammu And Kashmir,2019,273599.0,False,Historical
+Jharkhand,2013,482358.0,False,Historical
+Jharkhand,2014,572273.0,False,Historical
+Jharkhand,2015,581643.0,False,Historical
+Jharkhand,2016,671037.0,False,Historical
+Jharkhand,2017,688722.0,False,Historical
+Jharkhand,2018,739484.0,False,Historical
+Jharkhand,2019,817560.0,False,Historical
+Karnataka,2013,1902186.0,False,Historical
+Karnataka,2014,1896905.0,False,Historical
+Karnataka,2015,1857946.0,False,Historical
+Karnataka,2016,1871294.0,False,Historical
+Karnataka,2017,1943856.0,False,Historical
+Karnataka,2018,1988494.0,False,Historical
+Karnataka,2019,2187892.0,False,Historical
+Kerala,2013,774049.0,False,Historical
+Kerala,2014,884451.0,False,Historical
+Kerala,2015,939155.0,False,Historical
+Kerala,2016,1033143.0,False,Historical
+Kerala,2017,1082917.0,False,Historical
+Kerala,2018,1095842.0,False,Historical
+Kerala,2019,1137853.0,False,Historical
+Lakshadweep,2013,817.0,False,Historical
+Lakshadweep,2014,280.0,False,Historical
+Lakshadweep,2015,501.0,False,Historical
+Lakshadweep,2016,524.0,False,Historical
+Lakshadweep,2017,552.0,False,Historical
+Lakshadweep,2018,545.0,False,Historical
+Lakshadweep,2019,560.0,False,Historical
+Madhya Pradesh,2013,1698228.0,False,Historical
+Madhya Pradesh,2014,1712419.0,False,Historical
+Madhya Pradesh,2015,1725182.0,False,Historical
+Madhya Pradesh,2016,1773253.0,False,Historical
+Madhya Pradesh,2017,1885479.0,False,Historical
+Madhya Pradesh,2018,1929344.0,False,Historical
+Madhya Pradesh,2019,2182154.0,False,Historical
+Maharashtra,2013,3519721.0,False,Historical
+Maharashtra,2014,3736155.0,False,Historical
+Maharashtra,2015,3987312.0,False,Historical
+Maharashtra,2016,4016309.0,False,Historical
+Maharashtra,2017,4131757.0,False,Historical
+Maharashtra,2018,4230326.0,False,Historical
+Maharashtra,2019,4265472.0,False,Historical
+Manipur,2013,111136.0,False,Historical
+Manipur,2014,105128.0,False,Historical
+Manipur,2015,99340.0,False,Historical
+Manipur,2016,101062.0,False,Historical
+Manipur,2017,104680.0,False,Historical
+Manipur,2018,110377.0,False,Historical
+Manipur,2019,124538.0,False,Historical
+Meghalaya,2013,67300.0,False,Historical
+Meghalaya,2014,71171.0,False,Historical
+Meghalaya,2015,71567.0,False,Historical
+Meghalaya,2016,80292.0,False,Historical
+Meghalaya,2017,83822.0,False,Historical
+Meghalaya,2018,86931.0,False,Historical
+Meghalaya,2019,87541.0,False,Historical
+Mizoram,2013,30686.0,False,Historical
+Mizoram,2014,30564.0,False,Historical
+Mizoram,2015,31463.0,False,Historical
+Mizoram,2016,31719.0,False,Historical
+Mizoram,2017,29495.0,False,Historical
+Mizoram,2018,32838.0,False,Historical
+Mizoram,2019,33236.0,False,Historical
+Nagaland,2013,38672.0,False,Historical
+Nagaland,2014,38970.0,False,Historical
+Nagaland,2015,36892.0,False,Historical
+Nagaland,2016,40762.0,False,Historical
+Nagaland,2017,43557.0,False,Historical
+Nagaland,2018,45462.0,False,Historical
+Nagaland,2019,44561.0,False,Historical
+Odisha,2013,768185.0,False,Historical
+Odisha,2014,826820.0,False,Historical
+Odisha,2015,914675.0,False,Historical
+Odisha,2016,972285.0,False,Historical
+Odisha,2017,1015777.0,False,Historical
+Odisha,2018,1019192.0,False,Historical
+Odisha,2019,994929.0,False,Historical
+Puducherry,2013,42996.0,False,Historical
+Puducherry,2014,42823.0,False,Historical
+Puducherry,2015,42150.0,False,Historical
+Puducherry,2016,43917.0,False,Historical
+Puducherry,2017,49077.0,False,Historical
+Puducherry,2018,50612.0,False,Historical
+Puducherry,2019,55110.0,False,Historical
+Punjab,2013,845334.0,False,Historical
+Punjab,2014,892820.0,False,Historical
+Punjab,2015,878479.0,False,Historical
+Punjab,2016,917550.0,False,Historical
+Punjab,2017,959536.0,False,Historical
+Punjab,2018,919576.0,False,Historical
+Punjab,2019,869463.0,False,Historical
+Rajasthan,2013,1672655.0,False,Historical
+Rajasthan,2014,1720390.0,False,Historical
+Rajasthan,2015,1761460.0,False,Historical
+Rajasthan,2016,1808451.0,False,Historical
+Rajasthan,2017,1936204.0,False,Historical
+Rajasthan,2018,2084413.0,False,Historical
+Rajasthan,2019,2206517.0,False,Historical
+Sikkim,2013,22184.0,False,Historical
+Sikkim,2014,24023.0,False,Historical
+Sikkim,2015,29550.0,False,Historical
+Sikkim,2016,29110.0,False,Historical
+Sikkim,2017,29000.0,False,Historical
+Sikkim,2018,41572.0,False,Historical
+Sikkim,2019,58071.0,False,Historical
+Tamil Nadu,2013,3240404.0,False,Historical
+Tamil Nadu,2014,3352881.0,False,Historical
+Tamil Nadu,2015,3235354.0,False,Historical
+Tamil Nadu,2016,3371351.0,False,Historical
+Tamil Nadu,2017,3440945.0,False,Historical
+Tamil Nadu,2018,3414196.0,False,Historical
+Tamil Nadu,2019,3520311.0,False,Historical
+Telangana,2013,1469484.0,False,Historical
+Telangana,2014,1479088.0,False,Historical
+Telangana,2015,1474235.0,False,Historical
+Telangana,2016,1438737.0,False,Historical
+Telangana,2017,1419307.0,False,Historical
+Telangana,2018,1426461.0,False,Historical
+Telangana,2019,1389608.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2013,6513.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2014,7848.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2015,8576.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2016,8745.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2017,8866.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2018,9505.0,False,Historical
+The Dadra And Nagar Haveli And Daman And Diu,2019,10325.0,False,Historical
+Tripura,2013,68262.0,False,Historical
+Tripura,2014,74054.0,False,Historical
+Tripura,2015,74035.0,False,Historical
+Tripura,2016,83244.0,False,Historical
+Tripura,2017,91681.0,False,Historical
+Tripura,2018,82703.0,False,Historical
+Tripura,2019,86247.0,False,Historical
+Uttar Pradesh,2013,5211984.0,False,Historical
+Uttar Pradesh,2014,6066920.0,False,Historical
+Uttar Pradesh,2015,6003076.0,False,Historical
+Uttar Pradesh,2016,6157971.0,False,Historical
+Uttar Pradesh,2017,6455375.0,False,Historical
+Uttar Pradesh,2018,6469367.0,False,Historical
+Uttar Pradesh,2019,6388214.0,False,Historical
+Uttarakhand,2013,416498.0,False,Historical
+Uttarakhand,2014,415768.0,False,Historical
+Uttarakhand,2015,405386.0,False,Historical
+Uttarakhand,2016,404686.0,False,Historical
+Uttarakhand,2017,437150.0,False,Historical
+Uttarakhand,2018,468255.0,False,Historical
+Uttarakhand,2019,493279.0,False,Historical
+West Bengal,2013,1785484.0,False,Historical
+West Bengal,2014,1900939.0,False,Historical
+West Bengal,2015,1926500.0,False,Historical
+West Bengal,2016,2015996.0,False,Historical
+West Bengal,2017,2035981.0,False,Historical
+West Bengal,2018,2097410.0,False,Historical
+West Bengal,2019,2160893.0,False,Historical
+Andaman And Nicobar Islands,2020,12213.166015625,True,Base_2019_Ratio
+Andaman And Nicobar Islands,2021,13624.3720703125,True,Base_2019_Ratio
+Andaman And Nicobar Islands,2022,13936.5859375,True,Base_2019_Ratio
+Andaman And Nicobar Islands,2023,12031.5439453125,True,Base_2019_Ratio
+Andaman And Nicobar Islands,2024,13355.140625,True,Base_2019_Ratio
+Andhra Pradesh,2020,1880290.875,True,Base_2019_Ratio
+Andhra Pradesh,2021,1922992.0,True,Base_2019_Ratio
+Andhra Pradesh,2022,1937476.0,True,Base_2019_Ratio
+Andhra Pradesh,2023,2070770.625,True,Base_2019_Ratio
+Andhra Pradesh,2024,2077953.5,True,Base_2019_Ratio
+Arunachal Pradesh,2020,58229.23828125,True,Base_2019_Ratio
+Arunachal Pradesh,2021,58018.6640625,True,Base_2019_Ratio
+Arunachal Pradesh,2022,58454.15625,True,Base_2019_Ratio
+Arunachal Pradesh,2023,58454.15625,True,Base_2019_Ratio
+Arunachal Pradesh,2024,58454.15625,True,Base_2019_Ratio
+Assam,2020,660983.9375,True,Base_2019_Ratio
+Assam,2021,658975.1875,True,Base_2019_Ratio
+Assam,2022,656747.8125,True,Base_2019_Ratio
+Assam,2023,656747.8125,True,Base_2019_Ratio
+Assam,2024,657500.875,True,Base_2019_Ratio
+Bihar,2020,1789959.0,True,Base_2019_Ratio
+Bihar,2021,1829322.125,True,Base_2019_Ratio
+Bihar,2022,1929205.75,True,Base_2019_Ratio
+Bihar,2023,2007190.75,True,Base_2019_Ratio
+Bihar,2024,2047102.125,True,Base_2019_Ratio
+Chandigarh,2020,102449.4140625,True,Base_2019_Ratio
+Chandigarh,2021,99839.03125,True,Base_2019_Ratio
+Chandigarh,2022,100476.28125,True,Base_2019_Ratio
+Chandigarh,2023,99805.328125,True,Base_2019_Ratio
+Chandigarh,2024,99805.328125,True,Base_2019_Ratio
+Chhattisgarh,2020,626782.0625,True,Base_2019_Ratio
+Chhattisgarh,2021,628398.4375,True,Base_2019_Ratio
+Chhattisgarh,2022,626254.9375,True,Base_2019_Ratio
+Chhattisgarh,2023,621840.0625,True,Base_2019_Ratio
+Chhattisgarh,2024,621840.0625,True,Base_2019_Ratio
+Delhi,2020,991004.0625,True,Base_2019_Ratio
+Delhi,2021,994600.0,True,Base_2019_Ratio
+Delhi,2022,995839.375,True,Base_2019_Ratio
+Delhi,2023,995839.375,True,Base_2019_Ratio
+Delhi,2024,995839.375,True,Base_2019_Ratio
+Goa,2020,51448.6328125,True,Base_2019_Ratio
+Goa,2021,51448.6328125,True,Base_2019_Ratio
+Goa,2022,50777.6875,True,Base_2019_Ratio
+Goa,2023,50777.6875,True,Base_2019_Ratio
+Goa,2024,50777.6875,True,Base_2019_Ratio
+Gujarat,2020,1648835.875,True,Base_2019_Ratio
+Gujarat,2021,1655135.875,True,Base_2019_Ratio
+Gujarat,2022,1657873.5,True,Base_2019_Ratio
+Gujarat,2023,1656526.0,True,Base_2019_Ratio
+Gujarat,2024,1656043.375,True,Base_2019_Ratio
+Haryana,2020,944133.6875,True,Base_2019_Ratio
+Haryana,2021,977689.875,True,Base_2019_Ratio
+Haryana,2022,998023.75,True,Base_2019_Ratio
+Haryana,2023,1001130.625,True,Base_2019_Ratio
+Haryana,2024,985396.25,True,Base_2019_Ratio
+Himachal Pradesh,2020,282259.59375,True,Base_2019_Ratio
+Himachal Pradesh,2021,275705.4375,True,Base_2019_Ratio
+Himachal Pradesh,2022,274355.28125,True,Base_2019_Ratio
+Himachal Pradesh,2023,274355.28125,True,Base_2019_Ratio
+Himachal Pradesh,2024,276291.90625,True,Base_2019_Ratio
+Jammu And Kashmir,2020,277251.0625,True,Base_2019_Ratio
+Jammu And Kashmir,2021,284260.8125,True,Base_2019_Ratio
+Jammu And Kashmir,2022,283126.78125,True,Base_2019_Ratio
+Jammu And Kashmir,2023,284260.8125,True,Base_2019_Ratio
+Jammu And Kashmir,2024,284260.8125,True,Base_2019_Ratio
+Jharkhand,2020,882576.4375,True,Base_2019_Ratio
+Jharkhand,2021,934132.1875,True,Base_2019_Ratio
+Jharkhand,2022,975934.75,True,Base_2019_Ratio
+Jharkhand,2023,1026044.6875,True,Base_2019_Ratio
+Jharkhand,2024,1043835.875,True,Base_2019_Ratio
+Karnataka,2020,2383462.5,True,Base_2019_Ratio
+Karnataka,2021,2388686.0,True,Base_2019_Ratio
+Karnataka,2022,2374870.5,True,Base_2019_Ratio
+Karnataka,2023,2373628.0,True,Base_2019_Ratio
+Karnataka,2024,2374870.5,True,Base_2019_Ratio
+Kerala,2020,1130937.25,True,Base_2019_Ratio
+Kerala,2021,1113699.0,True,Base_2019_Ratio
+Kerala,2022,1115616.875,True,Base_2019_Ratio
+Kerala,2023,1114403.25,True,Base_2019_Ratio
+Kerala,2024,1117793.375,True,Base_2019_Ratio
+Lakshadweep,2020,4629.04931640625,True,Base_2019_Ratio
+Lakshadweep,2021,5804.96337890625,True,Base_2019_Ratio
+Lakshadweep,2022,5804.96337890625,True,Base_2019_Ratio
+Lakshadweep,2023,4258.259765625,True,Base_2019_Ratio
+Lakshadweep,2024,5337.50634765625,True,Base_2019_Ratio
+Madhya Pradesh,2020,2389060.75,True,Base_2019_Ratio
+Madhya Pradesh,2021,2370705.0,True,Base_2019_Ratio
+Madhya Pradesh,2022,2375515.25,True,Base_2019_Ratio
+Madhya Pradesh,2023,2375452.0,True,Base_2019_Ratio
+Madhya Pradesh,2024,2376166.5,True,Base_2019_Ratio
+Maharashtra,2020,4451910.0,True,Base_2019_Ratio
+Maharashtra,2021,4463801.5,True,Base_2019_Ratio
+Maharashtra,2022,4472755.0,True,Base_2019_Ratio
+Maharashtra,2023,4473555.5,True,Base_2019_Ratio
+Maharashtra,2024,4473555.5,True,Base_2019_Ratio
+Manipur,2020,135068.59375,True,Base_2019_Ratio
+Manipur,2021,134168.75,True,Base_2019_Ratio
+Manipur,2022,133678.453125,True,Base_2019_Ratio
+Manipur,2023,133678.453125,True,Base_2019_Ratio
+Manipur,2024,133678.453125,True,Base_2019_Ratio
+Meghalaya,2020,86273.625,True,Base_2019_Ratio
+Meghalaya,2021,85793.2421875,True,Base_2019_Ratio
+Meghalaya,2022,85793.2421875,True,Base_2019_Ratio
+Meghalaya,2023,85793.2421875,True,Base_2019_Ratio
+Meghalaya,2024,85793.2421875,True,Base_2019_Ratio
+Mizoram,2020,33272.17578125,True,Base_2019_Ratio
+Mizoram,2021,33272.17578125,True,Base_2019_Ratio
+Mizoram,2022,33272.17578125,True,Base_2019_Ratio
+Mizoram,2023,33272.17578125,True,Base_2019_Ratio
+Mizoram,2024,33272.17578125,True,Base_2019_Ratio
+Nagaland,2020,45692.921875,True,Base_2019_Ratio
+Nagaland,2021,45574.2734375,True,Base_2019_Ratio
+Nagaland,2022,46242.94140625,True,Base_2019_Ratio
+Nagaland,2023,46524.07421875,True,Base_2019_Ratio
+Nagaland,2024,46524.07421875,True,Base_2019_Ratio
+Odisha,2020,990136.3125,True,Base_2019_Ratio
+Odisha,2021,1004695.3125,True,Base_2019_Ratio
+Odisha,2022,996381.5,True,Base_2019_Ratio
+Odisha,2023,998416.0625,True,Base_2019_Ratio
+Odisha,2024,1002901.5,True,Base_2019_Ratio
+Puducherry,2020,53062.06640625,True,Base_2019_Ratio
+Puducherry,2021,53578.640625,True,Base_2019_Ratio
+Puducherry,2022,52907.6953125,True,Base_2019_Ratio
+Puducherry,2023,52907.6953125,True,Base_2019_Ratio
+Puducherry,2024,52852.7265625,True,Base_2019_Ratio
+Punjab,2020,878818.3125,True,Base_2019_Ratio
+Punjab,2021,911750.4375,True,Base_2019_Ratio
+Punjab,2022,916791.8125,True,Base_2019_Ratio
+Punjab,2023,918664.3125,True,Base_2019_Ratio
+Punjab,2024,913224.6875,True,Base_2019_Ratio
+Rajasthan,2020,2368547.75,True,Base_2019_Ratio
+Rajasthan,2021,2373417.5,True,Base_2019_Ratio
+Rajasthan,2022,2389767.25,True,Base_2019_Ratio
+Rajasthan,2023,2399036.0,True,Base_2019_Ratio
+Rajasthan,2024,2395945.5,True,Base_2019_Ratio
+Sikkim,2020,61102.83984375,True,Base_2019_Ratio
+Sikkim,2021,64601.12890625,True,Base_2019_Ratio
+Sikkim,2022,64601.12890625,True,Base_2019_Ratio
+Sikkim,2023,63088.55859375,True,Base_2019_Ratio
+Sikkim,2024,62821.109375,True,Base_2019_Ratio
+Tamil Nadu,2020,3679101.0,True,Base_2019_Ratio
+Tamil Nadu,2021,3698562.0,True,Base_2019_Ratio
+Tamil Nadu,2022,3688766.0,True,Base_2019_Ratio
+Tamil Nadu,2023,3688766.0,True,Base_2019_Ratio
+Tamil Nadu,2024,3678591.75,True,Base_2019_Ratio
+Telangana,2020,1124230.0,True,Base_2019_Ratio
+Telangana,2021,1118036.375,True,Base_2019_Ratio
+Telangana,2022,1117148.25,True,Base_2019_Ratio
+Telangana,2023,1118450.0,True,Base_2019_Ratio
+Telangana,2024,1118959.25,True,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,2020,9424.50390625,True,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,2021,8957.048828125,True,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,2022,10259.703125,True,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,2023,9424.50390625,True,Base_2019_Ratio
+The Dadra And Nagar Haveli And Daman And Diu,2024,8957.048828125,True,Base_2019_Ratio
+Tripura,2020,89733.03125,True,Base_2019_Ratio
+Tripura,2021,89733.03125,True,Base_2019_Ratio
+Tripura,2022,87330.921875,True,Base_2019_Ratio
+Tripura,2023,88567.7890625,True,Base_2019_Ratio
+Tripura,2024,87330.921875,True,Base_2019_Ratio
+Uttar Pradesh,2020,6195478.5,True,Base_2019_Ratio
+Uttar Pradesh,2021,6294833.5,True,Base_2019_Ratio
+Uttar Pradesh,2022,6302573.0,True,Base_2019_Ratio
+Uttar Pradesh,2023,6285800.0,True,Base_2019_Ratio
+Uttar Pradesh,2024,6285800.0,True,Base_2019_Ratio
+Uttarakhand,2020,572332.75,True,Base_2019_Ratio
+Uttarakhand,2021,582569.6875,True,Base_2019_Ratio
+Uttarakhand,2022,624175.125,True,Base_2019_Ratio
+Uttarakhand,2023,639777.625,True,Base_2019_Ratio
+Uttarakhand,2024,639886.4375,True,Base_2019_Ratio
+West Bengal,2020,2235876.75,True,Base_2019_Ratio
+West Bengal,2021,2237706.5,True,Base_2019_Ratio
+West Bengal,2022,2249707.0,True,Base_2019_Ratio
+West Bengal,2023,2270259.5,True,Base_2019_Ratio
+West Bengal,2024,2267448.5,True,Base_2019_Ratio
